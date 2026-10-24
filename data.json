@@ -1,0 +1,4470 @@
+{
+ "updated": "2026-10-24",
+ "rank_check_note": "24 Oct 01:20 BST: Google UK served a captcha to automated checks (curl and headless Chrome), so no position could be verified. Positions stay 'not yet checked' until Search Console is connected or a manual check is logged.",
+ "pages": {
+  "live": 59,
+  "live_services_areas": 37,
+  "live_blogs": 22,
+  "drafts_total": 58,
+  "drafts_new": 31,
+  "drafts_duplicate": 27,
+  "published_by_bot": 0,
+  "blocked": 31
+ },
+ "citations": {
+  "researched": 30,
+  "submitted": 0
+ },
+ "backlinks": {
+  "targets": 47,
+  "won": 0
+ },
+ "outreach": {
+  "prospects": 50,
+  "sent": 0
+ },
+ "tracked_keywords": [
+  {
+   "keyword": "office removals london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 5,
+   "page": "https://www.k1removals.com/removals/office/",
+   "page_status": "live",
+   "next_action": "Merge 3 duplicate office drafts into live page; add weekend-moves section",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "commercial removals london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 5,
+   "page": "https://www.k1removals.com/removals/office/",
+   "page_status": "live",
+   "next_action": "Add commercial/corporate section to live office page",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "office removals west london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/removals/office/",
+   "page_status": "live",
+   "next_action": "Add West London section + internal links from area pages",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "office relocation london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 5,
+   "page": "https://www.k1removals.com/removals/office/",
+   "page_status": "live",
+   "next_action": "Retitle office page to include 'Relocation'",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "park royal office removals",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/areas-covered/park-royal-office-removals/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish once wp-admin works",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "it relocation london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals/office/it-server-relocation/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish under office hub",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "school relocation london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 3,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals/office/school-relocations/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish under office hub",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "retail store relocation london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 3,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals/office/retail-relocations/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish under office hub",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "clinic relocation london",
+   "group": "Commercial / office",
+   "intent": "Commercial",
+   "priority": 3,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals/office/healthcare-clinic-relocations/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish under office hub",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "business storage london",
+   "group": "Packing / storage",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals/storage-services/business-storage/ (draft)",
+   "page_status": "draft",
+   "next_action": "Confirm K1 offers it, then publish",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "international removals london",
+   "group": "International",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 5,
+   "page": "https://www.k1removals.com/areas-covered/international-removals/",
+   "page_status": "live",
+   "next_action": "Link to every country page; remove bot check",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals london to spain",
+   "group": "International – Spain",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/removals-london-to-spain/",
+   "page_status": "live",
+   "next_action": "Replace with improved sprint version (wk 3)",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals london to dubai",
+   "group": "International – UAE",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/removals-london-to-dubai/",
+   "page_status": "live",
+   "next_action": "Replace with improved sprint version (wk 4)",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals london to australia",
+   "group": "International – Australia",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/removals-london-to-australia/",
+   "page_status": "live",
+   "next_action": "Add internal links from international hub",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals london to france",
+   "group": "International – France",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals-london-to-france/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish (wk 3)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals london to portugal",
+   "group": "International – Portugal",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals-london-to-portugal/ (draft)",
+   "page_status": "draft",
+   "next_action": "Merge with Portugal guide, publish (wk 3)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals london to usa",
+   "group": "International – USA",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals-london-to-usa/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish; link live USA blog",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals london to canada",
+   "group": "International – Canada",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals-london-to-canada/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals london to germany",
+   "group": "International – Germany",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals-london-to-germany/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "european removals london",
+   "group": "International – Europe",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals-london-to-europe/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish as Europe hub",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "moving to the usa from the uk",
+   "group": "International – USA",
+   "intent": "Informational",
+   "priority": 3,
+   "job_value": "Supports big job",
+   "position": "not yet checked",
+   "target_position": 10,
+   "page": "https://www.k1removals.com/blog/moving-to-the-usa-from-the-uk/",
+   "page_status": "live",
+   "next_action": "Link to USA page once live",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "house removals london",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 5,
+   "page": "https://www.k1removals.com/removals/house-moves/",
+   "page_status": "live",
+   "next_action": "Add large-home (4–5 bed) section",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "4 bed house removals london",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/removals/house-moves/",
+   "page_status": "live",
+   "next_action": "Fold 4–5 bed draft into live page",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removal company london",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 1,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 10,
+   "page": "https://www.k1removals.com/",
+   "page_status": "live",
+   "next_action": "Fix self-serving AggregateRating schema on homepage",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "uk house removals",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 10,
+   "page": "https://www.k1removals.com/uk-house-removals/",
+   "page_status": "live",
+   "next_action": "Internal links from house-moves page",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals london to manchester",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/blog/moving-from-london-to-manchester/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish blog 11",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "prime central london removals",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals/prime-central-london/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "fine art removals london",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 3,
+   "job_value": "Very high",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/removals/fine-art-antiques/ (draft)",
+   "page_status": "draft",
+   "next_action": "Confirm K1 offers this before publishing",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "piano removals london",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 3,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/removals/piano/",
+   "page_status": "live",
+   "next_action": "Add schema",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "flat removals london",
+   "group": "House removals",
+   "intent": "Commercial",
+   "priority": 3,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 10,
+   "page": "https://www.k1removals.com/removals/flats/",
+   "page_status": "live",
+   "next_action": "Remove bot check",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals chiswick",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/chiswick-removals/",
+   "page_status": "live",
+   "next_action": "Home area: add LocalBusiness schema, GBP link",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals acton",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/acton-removals/",
+   "page_status": "live",
+   "next_action": "Publish rewrite (removes Man & Van + 66% overlap)",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals brentford",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/brentford-removals/",
+   "page_status": "live",
+   "next_action": "Publish rewrite (removes Man & Van)",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals fulham",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/fulham-removals/",
+   "page_status": "live",
+   "next_action": "Publish rewrite (removes Man & Van)",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals shepherds bush",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/shepherds-bush-removals/",
+   "page_status": "live",
+   "next_action": "Publish rewrite (removes Man & Van)",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals ealing",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/removals-ealing/",
+   "page_status": "live",
+   "next_action": "Publish sprint rewrite",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals hammersmith",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/hammersmith-removals/",
+   "page_status": "live",
+   "next_action": "Publish sprint rewrite",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals richmond",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/richmond-removals/",
+   "page_status": "live",
+   "next_action": "Publish rewrite; fix 'Man & Van' in title",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals kensington",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/kensington-removals/",
+   "page_status": "live",
+   "next_action": "Fix 'Man & Van' in title; link Notting Hill",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals isleworth",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/isleworth-removals/",
+   "page_status": "live",
+   "next_action": "Publish sprint rewrite",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals gunnersbury",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 3,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/gunnersbury-removals/",
+   "page_status": "live",
+   "next_action": "Publish sprint rewrite",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals white city",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 3,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/white-city-removals/",
+   "page_status": "live",
+   "next_action": "Publish sprint rewrite",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals putney",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/putney-removals/",
+   "page_status": "live",
+   "next_action": "Add LocalBusiness schema",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals wandsworth",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/wandsworth-removals/",
+   "page_status": "live",
+   "next_action": "Add LocalBusiness schema",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals barnes",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 3,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/areas-covered/barnes-removals/",
+   "page_status": "live",
+   "next_action": "Add LocalBusiness schema",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals chelsea",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 1,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/areas-covered/chelsea-removals/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish (new)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals notting hill",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/areas-covered/notting-hill-removals/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish (new)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals kew",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/areas-covered/kew-removals/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish (new, wk 1)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals hounslow",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/areas-covered/hounslow-removals/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish (new, wk 2)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals twickenham",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/areas-covered/twickenham-removals/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish (new)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "removals surrey",
+   "group": "London areas",
+   "intent": "Local",
+   "priority": 3,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "/areas-covered/surrey-removals/ (draft)",
+   "page_status": "draft",
+   "next_action": "Publish (new)",
+   "status": "Draft ready – blocked by wp-admin"
+  },
+  {
+   "keyword": "packing services london",
+   "group": "Packing / storage",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 5,
+   "page": "https://www.k1removals.com/removals/packing-services/",
+   "page_status": "live",
+   "next_action": "Fold export/fragile/materials drafts in; remove bot check",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "removals and storage london",
+   "group": "Packing / storage",
+   "intent": "Commercial",
+   "priority": 2,
+   "job_value": "Medium",
+   "position": "not yet checked",
+   "target_position": 5,
+   "page": "https://www.k1removals.com/removals/storage-services/",
+   "page_status": "live",
+   "next_action": "Fold long-term + between-moves drafts in",
+   "status": "Live – needs fix"
+  },
+  {
+   "keyword": "export packing london",
+   "group": "Packing / storage",
+   "intent": "Commercial",
+   "priority": 3,
+   "job_value": "High",
+   "position": "not yet checked",
+   "target_position": 3,
+   "page": "https://www.k1removals.com/removals/packing-services/",
+   "page_status": "live",
+   "next_action": "Add export packing section",
+   "status": "Live – needs fix"
+  }
+ ],
+ "not_targeting": [
+  {
+   "keyword": "man and van [area]",
+   "reason": "K1 is a professional removals company, not man-and-van; low job value"
+  },
+  {
+   "keyword": "cheap removals london",
+   "reason": "Price-led searchers; K1 shows no prices and sells quality"
+  },
+  {
+   "keyword": "removals prices / cost calculator",
+   "reason": "No prices on site; quote after free survey"
+  },
+  {
+   "keyword": "weee recycling / electronics recycling",
+   "reason": "Service K1 doesn't offer"
+  },
+  {
+   "keyword": "office clearance london",
+   "reason": "Service K1 doesn't offer"
+  },
+  {
+   "keyword": "data disposal / it asset disposal",
+   "reason": "Service K1 doesn't offer (document shredding only)"
+  },
+  {
+   "keyword": "custom wooden crating",
+   "reason": "Service K1 doesn't offer"
+  },
+  {
+   "keyword": "student removals",
+   "reason": "Low job value; live page kept but not pushed"
+  },
+  {
+   "keyword": "single item delivery / furniture courier",
+   "reason": "Low value, courier competition"
+  },
+  {
+   "keyword": "self storage units near me",
+   "reason": "Storage giants dominate; low removals intent"
+  },
+  {
+   "keyword": "removals jobs / driver jobs",
+   "reason": "Recruitment intent, not customers"
+  },
+  {
+   "keyword": "crate hire",
+   "reason": "Only if K1 confirms it hires plastic crates; draft folded into packing page"
+  }
+ ],
+ "blockers": [
+  {
+   "t": "QUIC.cloud 'One moment, please' bot check",
+   "impact": "Blocks wp-admin/newlogin login (nothing can be published) and Googlebot was blocked 2 of 5 tests on 23 Oct",
+   "owner": "Ali (host)",
+   "sev": "Critical",
+   "status": "Partly fixed – asked Ali to disable sitewide + purge cache"
+  },
+  {
+   "t": "No Google Search Console or GA4",
+   "impact": "No real positions, impressions or clicks; can't request indexing",
+   "owner": "Dean / Ali",
+   "sev": "High",
+   "status": "Open – verify GSC after login works"
+  },
+  {
+   "t": "'Man & Van' in Richmond and Kensington titles (and Acton/Brentford/Fulham/Shepherds Bush)",
+   "impact": "Targets low-value searches; off-brand",
+   "owner": "Grok Bot / K1 Seo Manager",
+   "sev": "Medium",
+   "status": "Rewrites drafted – blocked by login"
+  },
+  {
+   "t": "Google reviews disappearing",
+   "impact": "Weakens map pack and trust",
+   "owner": "Dean",
+   "sev": "High",
+   "status": "Open – check GBP address/verification, request reviews via template, no review gating"
+  },
+  {
+   "t": "Self-serving AggregateRating schema on homepage",
+   "impact": "Breaks Google review-snippet policy",
+   "owner": "Grok Bot",
+   "sev": "Medium",
+   "status": "Fix drafted – blocked by login"
+  },
+  {
+   "t": "3 conflicting business addresses (NAP)",
+   "impact": "Hurts local rankings and citations",
+   "owner": "Dean",
+   "sev": "High",
+   "status": "Open – confirm Gable House, Turnham Green Terrace W4 1QP"
+  }
+ ],
+ "work_log": [
+  {
+   "date": "22 Oct",
+   "type": "Audit",
+   "detail": "Full crawl of 34 pages: titles, metas, schema, bot-check issues"
+  },
+  {
+   "date": "23 Oct",
+   "type": "Pages",
+   "detail": "Drafted 58 pages (Pickfords-style model + sprint); dedupe found 27 duplicates, 31 genuinely new"
+  },
+  {
+   "date": "23 Oct",
+   "type": "Pages",
+   "detail": "Area rewrites: Acton, Brentford, Fulham, Shepherds Bush (remove Man & Van, fix overlap)"
+  },
+  {
+   "date": "23 Oct",
+   "type": "Blogs",
+   "detail": "11 blog drafts + 6 sprint posts; 2 matching posts are live (USA, office building rules)"
+  },
+  {
+   "date": "23 Oct",
+   "type": "Citations",
+   "detail": "Researched 30 citation sites + 47 backlink targets; 0 submitted yet (NAP must be fixed first)"
+  },
+  {
+   "date": "23 Oct",
+   "type": "Outreach",
+   "detail": "50 estate-agent prospects listed; email drafted; 0 sent"
+  },
+  {
+   "date": "23 Oct",
+   "type": "AI SEO",
+   "detail": "llms.txt, schema.json, AI-answer FAQs drafted"
+  },
+  {
+   "date": "23 Oct",
+   "type": "Access",
+   "detail": "Googlebot whitelist note sent to Ali; partial fix confirmed"
+  }
+ ],
+ "weekly_plan": [
+  {
+   "week": "Wk 1 · 26–30 Oct",
+   "tasks": "Login fixed → publish Gunnersbury, Isleworth, White City, Kew; Man & Van title fixes; GBP verify + NAP; Trustpilot"
+  },
+  {
+   "week": "Wk 2 · 2–6 Nov",
+   "tasks": "Hammersmith, Ealing, Richmond, Hounslow; fold office drafts into /removals/office/; citations 1–15; estate agent emails"
+  },
+  {
+   "week": "Wk 3 · 9–13 Nov",
+   "tasks": "Replace Spain page; publish France, Portugal; citations 16–30; expat site pitches"
+  },
+  {
+   "week": "Wk 4 · 16–20 Nov",
+   "tasks": "Replace Dubai page; USA/Canada/Germany/Europe; internal-link pass; Search Console indexing; first real rank check"
+  }
+ ],
+ "keywords": [
+  {
+   "keyword": "removals chiswick",
+   "group": "London areas – chiswick",
+   "intent": "Local",
+   "page": "/areas-covered/chiswick-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "chiswick removals",
+   "group": "London areas – chiswick",
+   "intent": "Local",
+   "page": "/areas-covered/chiswick-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company chiswick",
+   "group": "London areas – chiswick",
+   "intent": "Local",
+   "page": "/areas-covered/chiswick-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals chiswick",
+   "group": "London areas – chiswick",
+   "intent": "Local",
+   "page": "/areas-covered/chiswick-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company chiswick",
+   "group": "London areas – chiswick",
+   "intent": "Local",
+   "page": "/areas-covered/chiswick-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals w4",
+   "group": "London areas – chiswick",
+   "intent": "Local",
+   "page": "/areas-covered/chiswick-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals chiswick",
+   "group": "London areas – chiswick",
+   "intent": "Local",
+   "page": "/areas-covered/chiswick-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals acton",
+   "group": "London areas – acton",
+   "intent": "Local",
+   "page": "/areas-covered/acton-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "acton removals",
+   "group": "London areas – acton",
+   "intent": "Local",
+   "page": "/areas-covered/acton-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company acton",
+   "group": "London areas – acton",
+   "intent": "Local",
+   "page": "/areas-covered/acton-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals acton",
+   "group": "London areas – acton",
+   "intent": "Local",
+   "page": "/areas-covered/acton-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company acton",
+   "group": "London areas – acton",
+   "intent": "Local",
+   "page": "/areas-covered/acton-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals w3",
+   "group": "London areas – acton",
+   "intent": "Local",
+   "page": "/areas-covered/acton-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals acton",
+   "group": "London areas – acton",
+   "intent": "Local",
+   "page": "/areas-covered/acton-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals brentford",
+   "group": "London areas – brentford",
+   "intent": "Local",
+   "page": "/areas-covered/brentford-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "brentford removals",
+   "group": "London areas – brentford",
+   "intent": "Local",
+   "page": "/areas-covered/brentford-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company brentford",
+   "group": "London areas – brentford",
+   "intent": "Local",
+   "page": "/areas-covered/brentford-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals brentford",
+   "group": "London areas – brentford",
+   "intent": "Local",
+   "page": "/areas-covered/brentford-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company brentford",
+   "group": "London areas – brentford",
+   "intent": "Local",
+   "page": "/areas-covered/brentford-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals tw8",
+   "group": "London areas – brentford",
+   "intent": "Local",
+   "page": "/areas-covered/brentford-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals brentford",
+   "group": "London areas – brentford",
+   "intent": "Local",
+   "page": "/areas-covered/brentford-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals ealing",
+   "group": "London areas – ealing",
+   "intent": "Local",
+   "page": "/areas-covered/removals-ealing/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "ealing removals",
+   "group": "London areas – ealing",
+   "intent": "Local",
+   "page": "/areas-covered/removals-ealing/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company ealing",
+   "group": "London areas – ealing",
+   "intent": "Local",
+   "page": "/areas-covered/removals-ealing/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals ealing",
+   "group": "London areas – ealing",
+   "intent": "Local",
+   "page": "/areas-covered/removals-ealing/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company ealing",
+   "group": "London areas – ealing",
+   "intent": "Local",
+   "page": "/areas-covered/removals-ealing/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals w5",
+   "group": "London areas – ealing",
+   "intent": "Local",
+   "page": "/areas-covered/removals-ealing/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals ealing",
+   "group": "London areas – ealing",
+   "intent": "Local",
+   "page": "/areas-covered/removals-ealing/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals hammersmith",
+   "group": "London areas – hammersmith",
+   "intent": "Local",
+   "page": "/areas-covered/hammersmith-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "hammersmith removals",
+   "group": "London areas – hammersmith",
+   "intent": "Local",
+   "page": "/areas-covered/hammersmith-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company hammersmith",
+   "group": "London areas – hammersmith",
+   "intent": "Local",
+   "page": "/areas-covered/hammersmith-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals hammersmith",
+   "group": "London areas – hammersmith",
+   "intent": "Local",
+   "page": "/areas-covered/hammersmith-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company hammersmith",
+   "group": "London areas – hammersmith",
+   "intent": "Local",
+   "page": "/areas-covered/hammersmith-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals w6",
+   "group": "London areas – hammersmith",
+   "intent": "Local",
+   "page": "/areas-covered/hammersmith-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals hammersmith",
+   "group": "London areas – hammersmith",
+   "intent": "Local",
+   "page": "/areas-covered/hammersmith-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals richmond",
+   "group": "London areas – richmond",
+   "intent": "Local",
+   "page": "/areas-covered/richmond-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "richmond removals",
+   "group": "London areas – richmond",
+   "intent": "Local",
+   "page": "/areas-covered/richmond-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company richmond",
+   "group": "London areas – richmond",
+   "intent": "Local",
+   "page": "/areas-covered/richmond-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals richmond",
+   "group": "London areas – richmond",
+   "intent": "Local",
+   "page": "/areas-covered/richmond-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company richmond",
+   "group": "London areas – richmond",
+   "intent": "Local",
+   "page": "/areas-covered/richmond-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals tw9",
+   "group": "London areas – richmond",
+   "intent": "Local",
+   "page": "/areas-covered/richmond-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals richmond",
+   "group": "London areas – richmond",
+   "intent": "Local",
+   "page": "/areas-covered/richmond-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals kensington",
+   "group": "London areas – kensington",
+   "intent": "Local",
+   "page": "/areas-covered/kensington-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "kensington removals",
+   "group": "London areas – kensington",
+   "intent": "Local",
+   "page": "/areas-covered/kensington-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company kensington",
+   "group": "London areas – kensington",
+   "intent": "Local",
+   "page": "/areas-covered/kensington-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals kensington",
+   "group": "London areas – kensington",
+   "intent": "Local",
+   "page": "/areas-covered/kensington-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company kensington",
+   "group": "London areas – kensington",
+   "intent": "Local",
+   "page": "/areas-covered/kensington-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals w8",
+   "group": "London areas – kensington",
+   "intent": "Local",
+   "page": "/areas-covered/kensington-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals kensington",
+   "group": "London areas – kensington",
+   "intent": "Local",
+   "page": "/areas-covered/kensington-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals chelsea",
+   "group": "London areas – chelsea",
+   "intent": "Local",
+   "page": "/areas-covered/chelsea-removals/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "chelsea removals",
+   "group": "London areas – chelsea",
+   "intent": "Local",
+   "page": "/areas-covered/chelsea-removals/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company chelsea",
+   "group": "London areas – chelsea",
+   "intent": "Local",
+   "page": "/areas-covered/chelsea-removals/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals chelsea",
+   "group": "London areas – chelsea",
+   "intent": "Local",
+   "page": "/areas-covered/chelsea-removals/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company chelsea",
+   "group": "London areas – chelsea",
+   "intent": "Local",
+   "page": "/areas-covered/chelsea-removals/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals sw3",
+   "group": "London areas – chelsea",
+   "intent": "Local",
+   "page": "/areas-covered/chelsea-removals/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals chelsea",
+   "group": "London areas – chelsea",
+   "intent": "Local",
+   "page": "/areas-covered/chelsea-removals/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals fulham",
+   "group": "London areas – fulham",
+   "intent": "Local",
+   "page": "/areas-covered/fulham-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "fulham removals",
+   "group": "London areas – fulham",
+   "intent": "Local",
+   "page": "/areas-covered/fulham-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals sw6",
+   "group": "London areas – fulham",
+   "intent": "Local",
+   "page": "/areas-covered/fulham-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals shepherds bush",
+   "group": "London areas – shepherds bush",
+   "intent": "Local",
+   "page": "/areas-covered/shepherds-bush-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shepherds bush removals",
+   "group": "London areas – shepherds bush",
+   "intent": "Local",
+   "page": "/areas-covered/shepherds-bush-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals w12",
+   "group": "London areas – shepherds bush",
+   "intent": "Local",
+   "page": "/areas-covered/shepherds-bush-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals isleworth",
+   "group": "London areas – isleworth",
+   "intent": "Local",
+   "page": "/areas-covered/isleworth-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "isleworth removals",
+   "group": "London areas – isleworth",
+   "intent": "Local",
+   "page": "/areas-covered/isleworth-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals tw7",
+   "group": "London areas – isleworth",
+   "intent": "Local",
+   "page": "/areas-covered/isleworth-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals putney",
+   "group": "London areas – putney",
+   "intent": "Local",
+   "page": "/areas-covered/putney-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "putney removals",
+   "group": "London areas – putney",
+   "intent": "Local",
+   "page": "/areas-covered/putney-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals sw15",
+   "group": "London areas – putney",
+   "intent": "Local",
+   "page": "/areas-covered/putney-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals wandsworth",
+   "group": "London areas – wandsworth",
+   "intent": "Local",
+   "page": "/areas-covered/wandsworth-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "wandsworth removals",
+   "group": "London areas – wandsworth",
+   "intent": "Local",
+   "page": "/areas-covered/wandsworth-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals sw18",
+   "group": "London areas – wandsworth",
+   "intent": "Local",
+   "page": "/areas-covered/wandsworth-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals notting hill",
+   "group": "London areas – notting hill",
+   "intent": "Local",
+   "page": "/areas-covered/notting-hill-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "notting hill removals",
+   "group": "London areas – notting hill",
+   "intent": "Local",
+   "page": "/areas-covered/notting-hill-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals w11",
+   "group": "London areas – notting hill",
+   "intent": "Local",
+   "page": "/areas-covered/notting-hill-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals kew",
+   "group": "London areas – kew",
+   "intent": "Local",
+   "page": "/areas-covered/kew-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "kew removals",
+   "group": "London areas – kew",
+   "intent": "Local",
+   "page": "/areas-covered/kew-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals hounslow",
+   "group": "London areas – hounslow",
+   "intent": "Local",
+   "page": "/areas-covered/hounslow-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "hounslow removals",
+   "group": "London areas – hounslow",
+   "intent": "Local",
+   "page": "/areas-covered/hounslow-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals tw3",
+   "group": "London areas – hounslow",
+   "intent": "Local",
+   "page": "/areas-covered/hounslow-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals twickenham",
+   "group": "London areas – twickenham",
+   "intent": "Local",
+   "page": "/areas-covered/twickenham-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "twickenham removals",
+   "group": "London areas – twickenham",
+   "intent": "Local",
+   "page": "/areas-covered/twickenham-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals tw1",
+   "group": "London areas – twickenham",
+   "intent": "Local",
+   "page": "/areas-covered/twickenham-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals barnes",
+   "group": "London areas – barnes",
+   "intent": "Local",
+   "page": "/areas-covered/barnes-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "barnes removals",
+   "group": "London areas – barnes",
+   "intent": "Local",
+   "page": "/areas-covered/barnes-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals sw13",
+   "group": "London areas – barnes",
+   "intent": "Local",
+   "page": "/areas-covered/barnes-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals gunnersbury",
+   "group": "London areas – gunnersbury",
+   "intent": "Local",
+   "page": "/areas-covered/gunnersbury-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "gunnersbury removals",
+   "group": "London areas – gunnersbury",
+   "intent": "Local",
+   "page": "/areas-covered/gunnersbury-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals white city",
+   "group": "London areas – white city",
+   "intent": "Local",
+   "page": "/areas-covered/white-city-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "white city removals",
+   "group": "London areas – white city",
+   "intent": "Local",
+   "page": "/areas-covered/white-city-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals bromley",
+   "group": "London areas – bromley",
+   "intent": "Local",
+   "page": "/areas-covered/bromley-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "bromley removals",
+   "group": "London areas – bromley",
+   "intent": "Local",
+   "page": "/areas-covered/bromley-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals br1",
+   "group": "London areas – bromley",
+   "intent": "Local",
+   "page": "/areas-covered/bromley-removals/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals surrey",
+   "group": "London areas – surrey",
+   "intent": "Local",
+   "page": "/areas-covered/surrey-removals/",
+   "status": "draft",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "surrey removals",
+   "group": "London areas – surrey",
+   "intent": "Local",
+   "page": "/areas-covered/surrey-removals/",
+   "status": "draft",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "park royal office removals",
+   "group": "London areas – park royal",
+   "intent": "Commercial",
+   "page": "/areas-covered/park-royal-office-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "park royal removals",
+   "group": "London areas – park royal",
+   "intent": "Commercial",
+   "page": "/areas-covered/park-royal-office-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "commercial removals park royal",
+   "group": "London areas – park royal",
+   "intent": "Commercial",
+   "page": "/areas-covered/park-royal-office-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office relocation park royal",
+   "group": "London areas – park royal",
+   "intent": "Commercial",
+   "page": "/areas-covered/park-royal-office-removals/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals kingston",
+   "group": "NEW area – kingston",
+   "intent": "Local",
+   "page": "/areas-covered/kingston-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company kingston",
+   "group": "NEW area – kingston",
+   "intent": "Local",
+   "page": "/areas-covered/kingston-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals wimbledon",
+   "group": "NEW area – wimbledon",
+   "intent": "Local",
+   "page": "/areas-covered/wimbledon-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company wimbledon",
+   "group": "NEW area – wimbledon",
+   "intent": "Local",
+   "page": "/areas-covered/wimbledon-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals battersea",
+   "group": "NEW area – battersea",
+   "intent": "Local",
+   "page": "/areas-covered/battersea-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company battersea",
+   "group": "NEW area – battersea",
+   "intent": "Local",
+   "page": "/areas-covered/battersea-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals clapham",
+   "group": "NEW area – clapham",
+   "intent": "Local",
+   "page": "/areas-covered/clapham-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company clapham",
+   "group": "NEW area – clapham",
+   "intent": "Local",
+   "page": "/areas-covered/clapham-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals hanwell",
+   "group": "NEW area – hanwell",
+   "intent": "Local",
+   "page": "/areas-covered/hanwell-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company hanwell",
+   "group": "NEW area – hanwell",
+   "intent": "Local",
+   "page": "/areas-covered/hanwell-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals southall",
+   "group": "NEW area – southall",
+   "intent": "Local",
+   "page": "/areas-covered/southall-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company southall",
+   "group": "NEW area – southall",
+   "intent": "Local",
+   "page": "/areas-covered/southall-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals teddington",
+   "group": "NEW area – teddington",
+   "intent": "Local",
+   "page": "/areas-covered/teddington-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company teddington",
+   "group": "NEW area – teddington",
+   "intent": "Local",
+   "page": "/areas-covered/teddington-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals ruislip",
+   "group": "NEW area – ruislip",
+   "intent": "Local",
+   "page": "/areas-covered/ruislip-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company ruislip",
+   "group": "NEW area – ruislip",
+   "intent": "Local",
+   "page": "/areas-covered/ruislip-removals/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals west london",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "west london removals",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company west london",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals west london",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company west london",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals near me west london",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals south west london",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals hounslow and richmond",
+   "group": "West London hub",
+   "intent": "Local",
+   "page": "/areas-covered/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal company london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "london removals",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals company london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "london removal companies",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "professional removals london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving company london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "best removal company london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals near me",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "k1 removals",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "full service removals london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "insured removals london",
+   "group": "Homepage – London brand",
+   "intent": "Commercial",
+   "page": "/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "4 bed house removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "3 bed house removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "5 bed house removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "home removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house movers london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "family house move london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "large house removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removal company london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving house london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "domestic removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "residential removals london",
+   "group": "House moves",
+   "intent": "Commercial",
+   "page": "/removals/house-moves/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "prime central london removals",
+   "group": "Prime central London",
+   "intent": "Commercial",
+   "page": "/removals/prime-central-london/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "luxury removals london",
+   "group": "Prime central London",
+   "intent": "Commercial",
+   "page": "/removals/prime-central-london/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "high end removals london",
+   "group": "Prime central London",
+   "intent": "Commercial",
+   "page": "/removals/prime-central-london/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "mayfair removals",
+   "group": "Prime central London",
+   "intent": "Commercial",
+   "page": "/removals/prime-central-london/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "belgravia removals",
+   "group": "Prime central London",
+   "intent": "Commercial",
+   "page": "/removals/prime-central-london/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "knightsbridge removals",
+   "group": "Prime central London",
+   "intent": "Commercial",
+   "page": "/removals/prime-central-london/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "white glove removals london",
+   "group": "Prime central London",
+   "intent": "Commercial",
+   "page": "/removals/prime-central-london/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "flat removals london",
+   "group": "Flats",
+   "intent": "Commercial",
+   "page": "/removals/flats/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "apartment removals london",
+   "group": "Flats",
+   "intent": "Commercial",
+   "page": "/removals/flats/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "flat movers london",
+   "group": "Flats",
+   "intent": "Commercial",
+   "page": "/removals/flats/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "small removals london",
+   "group": "Flats",
+   "intent": "Commercial",
+   "page": "/removals/flats/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "1 bed flat removals london",
+   "group": "Flats",
+   "intent": "Commercial",
+   "page": "/removals/flats/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "2 bed flat move london",
+   "group": "Flats",
+   "intent": "Commercial",
+   "page": "/removals/flats/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "packing services london",
+   "group": "Packing",
+   "intent": "Commercial",
+   "page": "/removals/packing-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "professional packers london",
+   "group": "Packing",
+   "intent": "Commercial",
+   "page": "/removals/packing-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house packing service london",
+   "group": "Packing",
+   "intent": "Commercial",
+   "page": "/removals/packing-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "packing and removals london",
+   "group": "Packing",
+   "intent": "Commercial",
+   "page": "/removals/packing-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "export packing london",
+   "group": "Packing",
+   "intent": "Commercial",
+   "page": "/removals/packing-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "fragile packing london",
+   "group": "Packing",
+   "intent": "Commercial",
+   "page": "/removals/packing-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "packing and unpacking service london",
+   "group": "Packing",
+   "intent": "Commercial",
+   "page": "/removals/packing-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals and storage london",
+   "group": "Storage",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removal storage london",
+   "group": "Storage",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "storage during house move london",
+   "group": "Storage",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "short term storage removals london",
+   "group": "Storage",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "containerised storage london",
+   "group": "Storage",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "furniture storage london",
+   "group": "Storage",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "household storage west london",
+   "group": "Storage",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "piano removals london",
+   "group": "Piano",
+   "intent": "Commercial",
+   "page": "/removals/piano/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "piano movers london",
+   "group": "Piano",
+   "intent": "Commercial",
+   "page": "/removals/piano/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "grand piano removals london",
+   "group": "Piano",
+   "intent": "Commercial",
+   "page": "/removals/piano/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "upright piano movers london",
+   "group": "Piano",
+   "intent": "Commercial",
+   "page": "/removals/piano/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "piano moving company london",
+   "group": "Piano",
+   "intent": "Commercial",
+   "page": "/removals/piano/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk house removals",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "national removals uk",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "long distance removals uk",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk removal company",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "long distance movers uk",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "nationwide removals",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals across the uk",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "house removals uk",
+   "group": "UK-wide",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to manchester",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to birmingham",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to bristol",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to edinburgh",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to glasgow",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to leeds",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to cardiff",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to oxford",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to cambridge",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to brighton",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving from london to manchester",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving from london to birmingham",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving from london to bristol",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving from london to edinburgh",
+   "group": "UK routes (London to city)",
+   "intent": "Commercial",
+   "page": "/uk-house-removals/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "commercial removals london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals west london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office relocation london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office movers london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "business relocation london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "commercial movers london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office relocation company london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office move london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "corporate relocation london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "workplace relocation london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office furniture removals london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "weekend office removals london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office relocation project management",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "commercial relocation services uk",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office removals uk",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "small office move london",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office move checklist",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "how to plan an office move",
+   "group": "Office / commercial",
+   "intent": "Commercial",
+   "page": "/removals/office/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "it relocation london",
+   "group": "Office – IT relocation",
+   "intent": "Commercial",
+   "page": "/removals/office/it-server-relocation/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "server relocation london",
+   "group": "Office – IT relocation",
+   "intent": "Commercial",
+   "page": "/removals/office/it-server-relocation/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "it equipment relocation",
+   "group": "Office – IT relocation",
+   "intent": "Commercial",
+   "page": "/removals/office/it-server-relocation/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office it move london",
+   "group": "Office – IT relocation",
+   "intent": "Commercial",
+   "page": "/removals/office/it-server-relocation/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "school relocation london",
+   "group": "Office – sectors (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/office/ (sections)",
+   "status": "needs-confirm",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "retail store relocation london",
+   "group": "Office – sectors (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/office/ (sections)",
+   "status": "needs-confirm",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "clinic relocation london",
+   "group": "Office – sectors (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/office/ (sections)",
+   "status": "needs-confirm",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "laboratory relocation london",
+   "group": "Office – sectors (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/office/ (sections)",
+   "status": "needs-confirm",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "business storage london",
+   "group": "Business storage (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/business-storage/",
+   "status": "draft",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office storage london",
+   "group": "Business storage (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/business-storage/",
+   "status": "draft",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "document storage london",
+   "group": "Business storage (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/business-storage/",
+   "status": "draft",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "archive storage london",
+   "group": "Business storage (confirm first)",
+   "intent": "Commercial",
+   "page": "/removals/storage-services/business-storage/",
+   "status": "draft",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "confidential shredding london",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "document shredding london",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shredding service london",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "secure shredding london",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "office shredding service",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "on site shredding london",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "paper shredding west london",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "confidential waste london",
+   "group": "NEW Shredding",
+   "intent": "Commercial",
+   "page": "/removals/office/document-shredding/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals london",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals uk",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removal company london",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "overseas removals london",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international movers london",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving abroad from uk",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international relocation london",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shipping household goods abroad",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "overseas removals uk",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international house move",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "sea freight removals uk",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "door to door international removals",
+   "group": "International hub",
+   "intent": "Commercial",
+   "page": "/areas-covered/international-removals/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to spain",
+   "group": "Intl – spain",
+   "intent": "Commercial",
+   "page": "/removals-london-to-spain/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to spain",
+   "group": "Intl – spain",
+   "intent": "Commercial",
+   "page": "/removals-london-to-spain/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to spain from uk",
+   "group": "Intl – spain",
+   "intent": "Commercial",
+   "page": "/removals-london-to-spain/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shipping furniture to spain",
+   "group": "Intl – spain",
+   "intent": "Commercial",
+   "page": "/removals-london-to-spain/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to spain",
+   "group": "Intl – spain",
+   "intent": "Commercial",
+   "page": "/removals-london-to-spain/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk to spain removals",
+   "group": "Intl – spain",
+   "intent": "Commercial",
+   "page": "/removals-london-to-spain/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to dubai",
+   "group": "Intl – dubai",
+   "intent": "Commercial",
+   "page": "/removals-london-to-dubai/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to dubai",
+   "group": "Intl – dubai",
+   "intent": "Commercial",
+   "page": "/removals-london-to-dubai/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to uae from uk",
+   "group": "Intl – dubai",
+   "intent": "Commercial",
+   "page": "/removals-london-to-dubai/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shipping furniture to dubai",
+   "group": "Intl – dubai",
+   "intent": "Commercial",
+   "page": "/removals-london-to-dubai/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to dubai",
+   "group": "Intl – dubai",
+   "intent": "Commercial",
+   "page": "/removals-london-to-dubai/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk to dubai removals",
+   "group": "Intl – dubai",
+   "intent": "Commercial",
+   "page": "/removals-london-to-dubai/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to australia",
+   "group": "Intl – australia",
+   "intent": "Commercial",
+   "page": "/removals-london-to-australia/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to australia",
+   "group": "Intl – australia",
+   "intent": "Commercial",
+   "page": "/removals-london-to-australia/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to australia from uk",
+   "group": "Intl – australia",
+   "intent": "Commercial",
+   "page": "/removals-london-to-australia/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shipping furniture to australia",
+   "group": "Intl – australia",
+   "intent": "Commercial",
+   "page": "/removals-london-to-australia/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to australia",
+   "group": "Intl – australia",
+   "intent": "Commercial",
+   "page": "/removals-london-to-australia/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk to australia removals",
+   "group": "Intl – australia",
+   "intent": "Commercial",
+   "page": "/removals-london-to-australia/",
+   "status": "live",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to france",
+   "group": "Intl – france",
+   "intent": "Commercial",
+   "page": "/removals-london-to-france/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to france",
+   "group": "Intl – france",
+   "intent": "Commercial",
+   "page": "/removals-london-to-france/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to france from uk",
+   "group": "Intl – france",
+   "intent": "Commercial",
+   "page": "/removals-london-to-france/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shipping furniture to france",
+   "group": "Intl – france",
+   "intent": "Commercial",
+   "page": "/removals-london-to-france/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to france",
+   "group": "Intl – france",
+   "intent": "Commercial",
+   "page": "/removals-london-to-france/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk to france removals",
+   "group": "Intl – france",
+   "intent": "Commercial",
+   "page": "/removals-london-to-france/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to portugal",
+   "group": "Intl – portugal",
+   "intent": "Commercial",
+   "page": "/removals-london-to-portugal/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to portugal",
+   "group": "Intl – portugal",
+   "intent": "Commercial",
+   "page": "/removals-london-to-portugal/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to portugal from uk",
+   "group": "Intl – portugal",
+   "intent": "Commercial",
+   "page": "/removals-london-to-portugal/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shipping furniture to portugal",
+   "group": "Intl – portugal",
+   "intent": "Commercial",
+   "page": "/removals-london-to-portugal/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to portugal",
+   "group": "Intl – portugal",
+   "intent": "Commercial",
+   "page": "/removals-london-to-portugal/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk to portugal removals",
+   "group": "Intl – portugal",
+   "intent": "Commercial",
+   "page": "/removals-london-to-portugal/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to usa",
+   "group": "Intl – usa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-usa/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to usa",
+   "group": "Intl – usa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-usa/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to usa from uk",
+   "group": "Intl – usa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-usa/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "shipping furniture to usa",
+   "group": "Intl – usa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-usa/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to usa",
+   "group": "Intl – usa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-usa/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "uk to usa removals",
+   "group": "Intl – usa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-usa/",
+   "status": "draft",
+   "priority": 1,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to canada",
+   "group": "Intl – canada",
+   "intent": "Commercial",
+   "page": "/removals-london-to-canada/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to canada",
+   "group": "Intl – canada",
+   "intent": "Commercial",
+   "page": "/removals-london-to-canada/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to canada from uk",
+   "group": "Intl – canada",
+   "intent": "Commercial",
+   "page": "/removals-london-to-canada/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to canada",
+   "group": "Intl – canada",
+   "intent": "Commercial",
+   "page": "/removals-london-to-canada/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to germany",
+   "group": "Intl – germany",
+   "intent": "Commercial",
+   "page": "/removals-london-to-germany/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to germany",
+   "group": "Intl – germany",
+   "intent": "Commercial",
+   "page": "/removals-london-to-germany/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to germany from uk",
+   "group": "Intl – germany",
+   "intent": "Commercial",
+   "page": "/removals-london-to-germany/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to germany",
+   "group": "Intl – germany",
+   "intent": "Commercial",
+   "page": "/removals-london-to-germany/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to europe",
+   "group": "Intl – europe",
+   "intent": "Commercial",
+   "page": "/removals-london-to-europe/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to europe",
+   "group": "Intl – europe",
+   "intent": "Commercial",
+   "page": "/removals-london-to-europe/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to europe from uk",
+   "group": "Intl – europe",
+   "intent": "Commercial",
+   "page": "/removals-london-to-europe/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to europe",
+   "group": "Intl – europe",
+   "intent": "Commercial",
+   "page": "/removals-london-to-europe/",
+   "status": "draft",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to new zealand",
+   "group": "NEW Intl – new zealand",
+   "intent": "Commercial",
+   "page": "/removals-london-to-new-zealand/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to new zealand",
+   "group": "NEW Intl – new zealand",
+   "intent": "Commercial",
+   "page": "/removals-london-to-new-zealand/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to new zealand from uk",
+   "group": "NEW Intl – new zealand",
+   "intent": "Commercial",
+   "page": "/removals-london-to-new-zealand/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to new zealand",
+   "group": "NEW Intl – new zealand",
+   "intent": "Commercial",
+   "page": "/removals-london-to-new-zealand/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to ireland",
+   "group": "NEW Intl – ireland",
+   "intent": "Commercial",
+   "page": "/removals-london-to-ireland/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to ireland",
+   "group": "NEW Intl – ireland",
+   "intent": "Commercial",
+   "page": "/removals-london-to-ireland/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to ireland from uk",
+   "group": "NEW Intl – ireland",
+   "intent": "Commercial",
+   "page": "/removals-london-to-ireland/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "international removals to ireland",
+   "group": "NEW Intl – ireland",
+   "intent": "Commercial",
+   "page": "/removals-london-to-ireland/ (new)",
+   "status": "new",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to netherlands",
+   "group": "NEW Intl – netherlands",
+   "intent": "Commercial",
+   "page": "/removals-london-to-netherlands/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to netherlands",
+   "group": "NEW Intl – netherlands",
+   "intent": "Commercial",
+   "page": "/removals-london-to-netherlands/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to netherlands from uk",
+   "group": "NEW Intl – netherlands",
+   "intent": "Commercial",
+   "page": "/removals-london-to-netherlands/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to italy",
+   "group": "NEW Intl – italy",
+   "intent": "Commercial",
+   "page": "/removals-london-to-italy/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to italy",
+   "group": "NEW Intl – italy",
+   "intent": "Commercial",
+   "page": "/removals-london-to-italy/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to italy from uk",
+   "group": "NEW Intl – italy",
+   "intent": "Commercial",
+   "page": "/removals-london-to-italy/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to switzerland",
+   "group": "NEW Intl – switzerland",
+   "intent": "Commercial",
+   "page": "/removals-london-to-switzerland/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to switzerland",
+   "group": "NEW Intl – switzerland",
+   "intent": "Commercial",
+   "page": "/removals-london-to-switzerland/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to switzerland from uk",
+   "group": "NEW Intl – switzerland",
+   "intent": "Commercial",
+   "page": "/removals-london-to-switzerland/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to south africa",
+   "group": "NEW Intl – south africa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-south-africa/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to south africa",
+   "group": "NEW Intl – south africa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-south-africa/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to south africa from uk",
+   "group": "NEW Intl – south africa",
+   "intent": "Commercial",
+   "page": "/removals-london-to-south-africa/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to singapore",
+   "group": "NEW Intl – singapore",
+   "intent": "Commercial",
+   "page": "/removals-london-to-singapore/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to singapore",
+   "group": "NEW Intl – singapore",
+   "intent": "Commercial",
+   "page": "/removals-london-to-singapore/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to singapore from uk",
+   "group": "NEW Intl – singapore",
+   "intent": "Commercial",
+   "page": "/removals-london-to-singapore/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals london to hong kong",
+   "group": "NEW Intl – hong kong",
+   "intent": "Commercial",
+   "page": "/removals-london-to-hong-kong/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals to hong kong",
+   "group": "NEW Intl – hong kong",
+   "intent": "Commercial",
+   "page": "/removals-london-to-hong-kong/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to hong kong from uk",
+   "group": "NEW Intl – hong kong",
+   "intent": "Commercial",
+   "page": "/removals-london-to-hong-kong/ (new)",
+   "status": "new",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to the usa from the uk",
+   "group": "Intl – usa (blog)",
+   "intent": "Informational",
+   "page": "/blog/moving-to-the-usa-from-the-uk/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals quote london",
+   "group": "Callbacks / quote",
+   "intent": "Transactional",
+   "page": "/contact/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "free removals quote",
+   "group": "Callbacks / quote",
+   "intent": "Transactional",
+   "page": "/contact/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "home survey removals",
+   "group": "Callbacks / quote",
+   "intent": "Transactional",
+   "page": "/contact/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "video survey removals",
+   "group": "Callbacks / quote",
+   "intent": "Transactional",
+   "page": "/contact/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "removals callback",
+   "group": "Callbacks / quote",
+   "intent": "Transactional",
+   "page": "/contact/",
+   "status": "live",
+   "priority": 2,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving house checklist uk",
+   "group": "Guides (blog)",
+   "intent": "Informational",
+   "page": "/blog/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "how to pack for a house move",
+   "group": "Guides (blog)",
+   "intent": "Informational",
+   "page": "/blog/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving abroad checklist",
+   "group": "Guides (blog)",
+   "intent": "Informational",
+   "page": "/blog/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "what to do when moving house",
+   "group": "Guides (blog)",
+   "intent": "Informational",
+   "page": "/blog/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  },
+  {
+   "keyword": "moving to london guide",
+   "group": "Guides (blog)",
+   "intent": "Informational",
+   "page": "/blog/",
+   "status": "live",
+   "priority": 3,
+   "volume": null,
+   "difficulty": null
+  }
+ ],
+ "pr_leads": [
+  {
+   "name": "Chiswick Book Festival (partners & sponsors)",
+   "url": "https://www.chiswickbookfestival.net/partners-sponsors/",
+   "type": "Local event sponsorship / community partner",
+   "why_relevant": "W4 festival run by St Michael & All Angels, Bedford Park. Its sponsors page lists local firms with links, and the Community Partners page (https://www.chiswickbookfestival.net/community-partners/) lists local groups. Silver tier is £250+ in cash, goods or services, so K1 could give services (e.g. moving festival kit) instead of cash.",
+   "how_to_pitch": "Email admin@chiswickbookfestival.net from Dean at K1 offering in-kind support for 2027 (transporting books, staging and kit between venues on festival weekend) in return for a sponsor listing with a link. The 2026 festival is over, so pitch this for the 2027 programme.",
+   "cost_or_caveat": "Paid or in-kind (Silver £250+). Dean to approve."
+  },
+  {
+   "name": "Bedford Park Festival (commercial opportunities)",
+   "url": "https://www.bedfordparkfestival.org/p/26/commercial-opportunities",
+   "type": "Local event sponsorship",
+   "why_relevant": "Chiswick's biggest community festival (50+ years). Every partner is listed on the Partners page with logo, contact details and a website link, and named in a leaflet delivered to 3,000+ homes. Its major partner is Savills, the estate agent, so the audience is people about to move.",
+   "how_to_pitch": "Email Torin Douglas (torindouglas@gmail.com) with an offer to sponsor a Green Days stand or donate a High Roller Tombola prize, or to provide in-kind help moving marquees and stall kit. Ask for the partner listing with a link. Green Days is in June, so plan for 2027.",
+   "cost_or_caveat": "The page quotes £200–£1,000 for partner packages (earlier search showed Silver £300 / Gold £600 / Diamond £1,200). Dean to approve."
+  },
+  {
+   "name": "The Isleworth Society (business membership)",
+   "url": "https://isleworthsociety.org/business-membership",
+   "type": "Local amenity society / corporate membership",
+   "why_relevant": "Amenity society for TW7. It welcomes local businesses as corporate members and offers newsletter, event and advert sponsorship. A good fit for the Isleworth area page.",
+   "how_to_pitch": "Join as a corporate member (£45 per the search snippet; check before paying), then offer a short 'moving in Old Isleworth: parking and access' tip piece for the newsletter or website, and ask whether members are listed or linked. Contact: membership.isleworth.soc@gmail.com.",
+   "cost_or_caveat": "Low cost. Dean to approve."
+  },
+  {
+   "name": "West Chiswick & Gunnersbury Society",
+   "url": "https://westchiswickgs.org/about-the-society/membership/",
+   "type": "Local amenity society",
+   "why_relevant": "Residents' society covering exactly the Gunnersbury and West Chiswick streets the new Gunnersbury page targets. Its newsletters cover Gunnersbury station, Brentford stadium and local planning.",
+   "how_to_pitch": "Join, then offer something useful such as free moving boxes for a society event, or a practical note on parking suspensions in the Hounslow and Ealing parts of Gunnersbury for the newsletter or site. Ask for a mention with a link. Contact: secretary@westchiswickgs.org.",
+   "cost_or_caveat": "Membership fee. No link guaranteed: it's a relationship play."
+  },
+  {
+   "name": "Gunnersbury Park & Museum (support / corporate volunteering)",
+   "url": "https://visitgunnersbury.org/support-us/",
+   "type": "Local charity partnership / CSR",
+   "why_relevant": "A charity-run park and museum jointly owned by Ealing and Hounslow, right next to K1's Gunnersbury and Chiswick patch. Its Support Us page invites corporate partnerships, from staff volunteering days to naming rights,, and it runs corporate volunteering days (https://www.visitgunnersbury.org/volunteer/corporate-volunteers/).",
+   "how_to_pitch": "Book a K1 team volunteering day or offer in-kind moving help for museum or events kit, then ask whether supporters are credited online. Share photos on K1's Instagram and GBP too. Contact: info@visitgunnersbury.org.",
+   "cost_or_caveat": "No published supporters page found, so a link isn't guaranteed. The local PR value is the main win."
+  },
+  {
+   "name": "West London Chambers (of Commerce)",
+   "url": "https://westlondonchambers.org.uk/",
+   "type": "B2B business association",
+   "why_relevant": "Chamber covering Hounslow, Ealing and Hammersmith & Fulham (it says it has around 2,300 members). Its member listings and Business Awards brochure link to members. Strong for office-removal leads. This is a different organisation from 'West London Business' and the London Chamber, which are already on the list.",
+   "how_to_pitch": "Ask about membership and whether the member directory includes a website link. Enter the Business Awards and attend the Festival of Business to meet facilities and office managers. Lead with the new /removals/office/ hub.",
+   "cost_or_caveat": "Paid membership. Dean to approve."
+  },
+  {
+   "name": "The Chiswick Directory",
+   "url": "https://chiswick.directory/",
+   "type": "Hyper-local business directory",
+   "why_relevant": "W4-only business directory with free and premium listings (add a listing at chiswick.directory/add-listing). It's relevant to the 'removals chiswick' target keyword and not in directory-citations.csv or citations-30.csv.",
+   "how_to_pitch": "Create a free listing using the exact NAP from leadgen/nap-citation-sheet.md (Gable House, 18–24 Turnham Green Terrace, W4 1QP · 0330 103 0041) and link to /areas-covered/chiswick-removals/.",
+   "cost_or_caveat": "Free tier. The box couldn't reach the site from here (timeout), but search confirmed it's live, so check it in a browser before submitting."
+  },
+  {
+   "name": "The Chiswick Herald (Chiswick & Kew Herald) news desk",
+   "url": "https://chiswickherald.co.uk/",
+   "type": "Local news / PR",
+   "why_relevant": "Local paper website covering Chiswick and Kew. It's separate from The Chiswick Calendar and ChiswickW4.com, which are already on the list.",
+   "how_to_pitch": "Pitch a genuine local story, e.g. K1 donating unwanted furniture from moves to a local charity, or a practical 'moving in Chiswick: book your parking suspension 10 working days ahead' piece. Send to newsdesk@chiswickherald.co.uk. Don't send a sales pitch.",
+   "cost_or_caveat": "Free editorial. Advertising is also available (paid)."
+  },
+  {
+   "name": "Association of Relocation Professionals (ARP), Affiliate membership",
+   "url": "https://www.arp-relocation.com/affiliate-membership",
+   "type": "Industry association / corporate relocation network",
+   "why_relevant": "UK relocation-industry body. Affiliate membership is open to moving companies and includes a standard entry on the ARP website, a free profile in its newsletter and speaking slots. That puts K1 in front of relocation agents who place international and corporate moves.",
+   "how_to_pitch": "Apply via 'Join'. It needs nomination by a Full Member or two referees. Use the international hub and Spain, Dubai and Australia pages as proof of capability.",
+   "cost_or_caveat": "£120 admin + £600/yr incl. VAT (per ARP page). Paid, so Dean must approve."
+  },
+  {
+   "name": "My Lawyer In Spain (expert removals interviews)",
+   "url": "https://www.mylawyerinspain.com/blog/removals-brexit/",
+   "type": "Expat legal blog / expert interview",
+   "why_relevant": "Spanish legal-services blog that publishes Q&A interviews with removals experts on post-Brexit moves to Spain (this one is with Indalo Transport). That's a direct fit for the live /removals-london-to-spain/ page.",
+   "how_to_pitch": "Offer Dean (K1 Removals) for a similar Q&A from the London end: inventories, timing a move with residency paperwork, and what to pack versus buy in Spain. Use the site's contact page. Don't offer payment for the link.",
+   "cost_or_caveat": "Free editorial. It may already have a removals partner, so offer a different angle (London departures). It returned a Cloudflare 522 to the box on 24 Oct (it was found and indexed via search), so check it in a browser first."
+  },
+  {
+   "name": "The Connexion (France)",
+   "url": "https://www.connexionfrance.com/practical/customs-paperwork-how-can-i-get-help-relocating-from-uk-to-france/241058",
+   "type": "Expat news + directory",
+   "why_relevant": "Ran a piece on getting help relocating UK to France; its print directory lists UK-France movers",
+   "how_to_pitch": "Pitch expert comment for future relocation articles; directory listing is likely paid",
+   "cost_or_caveat": ""
+  },
+  {
+   "name": "Chiswick Business Network (Think Jeannie)",
+   "url": "https://www.meetup.com/chiswick-business-network/",
+   "type": "Local B2B networking",
+   "why_relevant": "W4 business networking group (Meetup)",
+   "how_to_pitch": "Attend events to meet office managers; relationship rather than a link",
+   "cost_or_caveat": ""
+  }
+ ],
+ "drafts": [
+  {
+   "type": "Page",
+   "name": "chiswick-removals",
+   "url": "/areas-covered/chiswick-removals/",
+   "words": "~1,160",
+   "notes": "Merges /workspace/k1/removals-chiswick.md + ai-seo/chiswick-page.md into one page at the EXISTING URL (drops the /removals-chiswick/ slug idea, which would have competed). Removed \"from\" price placeholders. Hounslow 10-working-day suspension notice (checked on the council page 24 Oct).",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "gunnersbury-removals",
+   "url": "/areas-covered/gunnersbury-removals/",
+   "words": "~980",
+   "notes": "From sprint-2026-10-23/areas/gunnersbury. Fixed the parking section (Hounslow 10 working days vs Ealing 3/7), removed the link to the unpublished Kew page, added Gunnersbury Park events and the joint Ealing/Hounslow ownership.",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "isleworth-removals",
+   "url": "/areas-covered/isleworth-removals/",
+   "words": "~860",
+   "notes": "From sprint draft. Corrected Hounslow notice (\"two weeks\" became \"at least 10 working days\", with council link), removed the flood-zone paragraph and the link to the unpublished Hounslow page, fixed the hospital name (West Middlesex University Hospital).",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "office-removals-hub",
+   "url": "/removals/office/",
+   "words": "~930",
+   "notes": "Business moves hub (microsite brief #1 structure). Folds in the DUPLICATE drafts commercial-removals and weekend-office-moves, so don't publish those as separate pages. \"Since 2013\" and the 4-step process are taken from the live page. Case-study block is a PLACEHOLDER for real jobs from Dean.",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "kensington-removals",
+   "url": "/areas-covered/kensington-removals/",
+   "words": "~880",
+   "notes": "NEW rewrite. The live page's title says \"Man & Van\" and its body has a \"Man and van\" service block. This version removes both and uses RBKC's suspension rules (10 working days for resident bays, checked 24 Oct).",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "areas-covered-hub",
+   "url": "/areas-covered/",
+   "words": "~690",
+   "notes": "NEW rebuild of the thin live hub (739 words of generic blurbs), now grouped by borough the way Pickfords does it, with council parking notes. Unpublished areas are listed as \"coming soon\" with no links.",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "international-removals-hub",
+   "url": "/areas-covered/international-removals/",
+   "words": "~810",
+   "notes": "NEW rebuild with a country grid (live Spain/Dubai/Australia pages + live France/USA guides), shipping methods, export packing, customs (hedged) and storage.",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Blog brief",
+   "name": "2026-10-27-moving-house-in-winter-london",
+   "url": "",
+   "words": "",
+   "notes": "Blog brief: Tue 27 Oct 2026 (Grok Bot to write)",
+   "status": "Brief ready"
+  },
+  {
+   "type": "Blog brief",
+   "name": "2026-10-30-moving-into-new-build-flat-london",
+   "url": "",
+   "words": "",
+   "notes": "Blog brief: Fri 30 Oct 2026 (Grok Bot to write)",
+   "status": "Brief ready"
+  }
+ ],
+ "briefs": [
+  {
+   "slug": "document-shredding-london",
+   "title": "Brief: Confidential document shredding (new page)",
+   "url": "",
+   "primary": "",
+   "secondary": "",
+   "intent": "",
+   "length": "",
+   "command": "/write topics/document-shredding-london.md"
+  },
+  {
+   "slug": "international-removals-london",
+   "title": "Brief: International removals London (fix live hub)",
+   "url": "/areas-covered/international-removals/ (LIVE)",
+   "primary": "international removals london (P1, very high job value)",
+   "secondary": "european removals london, removals london to spain / dubai / australia / france / portugal / usa",
+   "intent": "Commercial. People planning a move abroad who want a door-to-door specialist.",
+   "length": "1,500–2,000 words + 6 FAQs",
+   "command": "/write topics/international-removals-london.md"
+  },
+  {
+   "slug": "office-removals-london",
+   "title": "Brief: Office / commercial removals London (fix live hub)",
+   "url": "/removals/office/ (LIVE, the ONLY commercial page; merge, don't duplicate)",
+   "primary": "office removals london (P1)",
+   "secondary": "commercial removals london, office removals west london, office relocation london",
+   "intent": "Commercial, high job value. Office managers and facilities leads who want a reliable, low-downtime move.",
+   "length": "1,500–2,000 words + 6 FAQs",
+   "command": "/write topics/office-removals-london.md"
+  },
+  {
+   "slug": "office-removals-sector-sections",
+   "title": "Brief: Sector sections for /removals/office/ (update, NOT a new page)",
+   "url": "",
+   "primary": "",
+   "secondary": "",
+   "intent": "",
+   "length": "",
+   "command": "/write topics/office-removals-sector-sections.md"
+  },
+  {
+   "slug": "removals-chiswick",
+   "title": "Brief: Removals Chiswick (rewrite live page)",
+   "url": "/areas-covered/chiswick-removals/ (LIVE: replace body, keep slug)",
+   "primary": "removals chiswick (P1)",
+   "secondary": "removal company chiswick, chiswick removals, house removals W4, movers chiswick",
+   "intent": "Local/commercial. Searcher wants a trusted local firm and a quote.",
+   "length": "1,000–1,400 words + 6 FAQs",
+   "command": "/write topics/removals-chiswick.md"
+  }
+ ]
+}

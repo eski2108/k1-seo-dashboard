@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive"><title>K1 Removals · SEO Command Centre</title>
+<link rel="icon" href="assets/k1-logo.png"><link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css"></head><body>
+<header class="nav"><div class="wrap navin"><a class="brand" href="#top"><img src="assets/k1-logo.png" alt="K1 Removals"><span>K1 Removals<small>SEO Command Centre</small></span></a>
+<button class="burger" aria-label="Menu" onclick="document.body.classList.toggle('open')">☰</button>
+<nav id="menu"><a href="#audit">Audit</a><a href="#loop">Weekly loop</a><a href="#keywords">Keywords</a><a href="#briefs">Briefs</a><a href="#drafts">Drafts</a><a href="#pr">PR leads</a><a href="#blockers">Blockers</a><a href="#rankings">Rankings</a></nav></div></header>
+<section class="hero" id="top"><div class="wrap"><div class="pill">Live dashboard · updated <span id="upd"></span></div>
+<h1>Winning London removals searches, <em>one page at a time.</em></h1>
+<p class="lead">Professional domestic, international and commercial removals · insured up to £1 million. Everything we're doing for SEO, all in one place.</p>
+<div class="stats" id="heroStats"></div></div><div class="grid-bg"></div></section>
+<main>
+<section id="audit" class="wrap sec"><h2><span></span>Site audit</h2><p class="sub">Where the site stands today.</p><div class="cards4" id="auditCards"></div>
+<div class="two"><div class="panel"><h3>Pages</h3><div id="pagesBars" class="bars"></div></div><div class="panel"><h3>Work log</h3><ul id="worklog" class="timeline"></ul></div></div>
+<div class="panel"><h3>Not targeting (on purpose)</h3><div id="notT" class="chips2"></div></div></section>
+<section id="loop" class="wrap sec"><h2><span></span>The weekly SEO machine loop</h2><p class="sub">Claude writes the content and Grok Bot runs the machine. Nothing goes live without Dean's OK.</p>
+<div class="loop" id="loopSteps"></div><div class="panel"><h3>Weekly plan</h3><div id="plan" class="plan"></div></div></section>
+<section id="keywords" class="wrap sec"><h2><span></span>Keyword map · <b id="kwTotal"></b> keywords</h2><p class="sub">Each keyword maps to exactly one page, so there are no duplicates. We don't have volumes yet; they come once Search Console is connected.</p>
+<div class="three"><div class="panel"><h3>By status</h3><div id="donut"></div></div><div class="panel span2"><h3>By group</h3><div id="groupBars" class="bars"></div></div></div>
+<div class="panel"><div class="filters"><input id="q" placeholder="Search keywords or pages…"><select id="fg"><option value="">All groups</option></select><select id="fp"><option value="">All priorities</option><option>1</option><option>2</option><option>3</option></select><select id="fs"><option value="">All statuses</option></select><span id="cnt" class="cnt"></span></div>
+<div class="tbl"><table><thead><tr><th data-k="keyword">Keyword</th><th data-k="group">Group</th><th data-k="intent">Intent</th><th data-k="page">Target page</th><th data-k="priority">P</th><th data-k="status">Status</th></tr></thead><tbody id="kwBody"></tbody></table></div></div></section>
+<section id="briefs" class="wrap sec"><h2><span></span>Page briefs</h2><p class="sub">Monday briefs in seomachine/topics/. To write one, paste its command into Claude.</p><div class="cards" id="briefCards"></div></section>
+<section id="drafts" class="wrap sec"><h2><span></span>Drafts awaiting approval</h2><p class="sub">These are ready to publish but nothing is live yet. Dean approves each one first.</p><div class="cards" id="draftCards"></div></section>
+<section id="pr" class="wrap sec"><h2><span></span>PR &amp; backlink leads</h2><p class="sub">Anything paid or sponsored needs Dean's OK.</p><div class="cards" id="prCards"></div></section>
+<section id="blockers" class="wrap sec"><h2><span></span>Blockers</h2><div class="cards" id="blockCards"></div></section>
+<section id="rankings" class="wrap sec"><h2><span></span>Ranking tracking</h2><p class="sub" id="rankNote"></p>
+<div class="panel"><div class="tbl"><table><thead><tr><th>Keyword</th><th>Group</th><th>Position</th><th>Target</th><th>Next action</th></tr></thead><tbody id="rankBody"></tbody></table></div></div></section>
+</main><footer><div class="wrap">K1 Removals · internal SEO dashboard · not indexed · data from <code>data.json</code></div></footer>
+<script src="app.js"></script></body></html>
