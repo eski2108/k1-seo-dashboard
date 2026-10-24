@@ -37,3 +37,4 @@ td{padding:10px 12px;border-top:1px solid var(--line)}tr:hover td{background:#F5
 .ph{color:var(--mute);font-style:italic}.reveal{opacity:0;transform:translateY(24px);transition:opacity .7s,transform .7s}.reveal.in{opacity:1;transform:none}
 footer{margin-top:60px;padding:30px 0;background:var(--navy);color:#c9d3ea;font-size:13px}
 @media(max-width:900px){.two,.three{grid-template-columns:1fr}nav{display:none;position:absolute;top:68px;left:0;right:0;background:#fff;padding:12px 20px;border-bottom:1px solid var(--line)}body.open nav{display:block}nav a{display:block;margin:10px 0}.burger{display:block}.bars .row{grid-template-columns:120px 1fr 40px}.cards{grid-template-columns:1fr}.wrap{padding:0 16px}.sec{padding:48px 16px 4px}}
+.btn{padding:10px 18px;border:0;border-radius:10px;background:#12285A;color:#fff;font-weight:700;cursor:pointer}#lkOut{margin-top:10px;line-height:1.7}
