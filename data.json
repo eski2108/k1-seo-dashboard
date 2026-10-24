@@ -889,8 +889,25 @@
    "page": "/areas-covered/chiswick-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.64,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "chiswick removals",
@@ -899,8 +916,25 @@
    "page": "/areas-covered/chiswick-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.66,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company chiswick",
@@ -909,8 +943,25 @@
    "page": "/areas-covered/chiswick-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.64,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals chiswick",
@@ -919,8 +970,25 @@
    "page": "/areas-covered/chiswick-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company chiswick",
@@ -930,7 +998,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals w4",
@@ -939,8 +1024,25 @@
    "page": "/areas-covered/chiswick-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals chiswick",
@@ -949,8 +1051,25 @@
    "page": "/areas-covered/chiswick-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals acton",
@@ -959,8 +1078,25 @@
    "page": "/areas-covered/acton-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 11.26,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "acton removals",
@@ -979,8 +1115,25 @@
    "page": "/areas-covered/acton-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 11.26,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals acton",
@@ -989,8 +1142,25 @@
    "page": "/areas-covered/acton-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company acton",
@@ -1000,7 +1170,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals w3",
@@ -1009,8 +1196,25 @@
    "page": "/areas-covered/acton-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals acton",
@@ -1020,7 +1224,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals brentford",
@@ -1029,8 +1250,25 @@
    "page": "/areas-covered/brentford-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.2,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "brentford removals",
@@ -1050,7 +1288,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals brentford",
@@ -1059,8 +1314,25 @@
    "page": "/areas-covered/brentford-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company brentford",
@@ -1070,7 +1342,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals tw8",
@@ -1079,8 +1368,25 @@
    "page": "/areas-covered/brentford-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 0.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals brentford",
@@ -1090,7 +1396,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals ealing",
@@ -1099,8 +1422,25 @@
    "page": "/areas-covered/removals-ealing/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.19,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "ealing removals",
@@ -1119,8 +1459,25 @@
    "page": "/areas-covered/removals-ealing/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.19,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals ealing",
@@ -1129,8 +1486,25 @@
    "page": "/areas-covered/removals-ealing/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company ealing",
@@ -1139,8 +1513,25 @@
    "page": "/areas-covered/removals-ealing/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.62,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals w5",
@@ -1149,8 +1540,25 @@
    "page": "/areas-covered/removals-ealing/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 0.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals ealing",
@@ -1159,8 +1567,25 @@
    "page": "/areas-covered/removals-ealing/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals hammersmith",
@@ -1169,8 +1594,25 @@
    "page": "/areas-covered/hammersmith-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.66,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "hammersmith removals",
@@ -1179,8 +1621,25 @@
    "page": "/areas-covered/hammersmith-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.66,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company hammersmith",
@@ -1189,8 +1648,25 @@
    "page": "/areas-covered/hammersmith-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.66,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals hammersmith",
@@ -1199,8 +1675,25 @@
    "page": "/areas-covered/hammersmith-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company hammersmith",
@@ -1209,8 +1702,25 @@
    "page": "/areas-covered/hammersmith-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals w6",
@@ -1219,8 +1729,25 @@
    "page": "/areas-covered/hammersmith-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals hammersmith",
@@ -1229,8 +1756,25 @@
    "page": "/areas-covered/hammersmith-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals richmond",
@@ -1239,8 +1783,25 @@
    "page": "/areas-covered/richmond-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.47,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "richmond removals",
@@ -1259,8 +1820,25 @@
    "page": "/areas-covered/richmond-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.2,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals richmond",
@@ -1269,8 +1847,25 @@
    "page": "/areas-covered/richmond-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company richmond",
@@ -1279,8 +1874,25 @@
    "page": "/areas-covered/richmond-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.2,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals tw9",
@@ -1289,8 +1901,25 @@
    "page": "/areas-covered/richmond-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals richmond",
@@ -1299,8 +1928,25 @@
    "page": "/areas-covered/richmond-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals kensington",
@@ -1309,8 +1955,25 @@
    "page": "/areas-covered/kensington-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "kensington removals",
@@ -1319,8 +1982,25 @@
    "page": "/areas-covered/kensington-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company kensington",
@@ -1329,8 +2009,25 @@
    "page": "/areas-covered/kensington-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals kensington",
@@ -1339,8 +2036,25 @@
    "page": "/areas-covered/kensington-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company kensington",
@@ -1349,8 +2063,25 @@
    "page": "/areas-covered/kensington-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.27,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals w8",
@@ -1359,8 +2090,25 @@
    "page": "/areas-covered/kensington-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals kensington",
@@ -1369,8 +2117,25 @@
    "page": "/areas-covered/kensington-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals chelsea",
@@ -1379,8 +2144,25 @@
    "page": "/areas-covered/chelsea-removals/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.06,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "chelsea removals",
@@ -1399,8 +2181,25 @@
    "page": "/areas-covered/chelsea-removals/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.45,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals chelsea",
@@ -1409,8 +2208,25 @@
    "page": "/areas-covered/chelsea-removals/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.04,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company chelsea",
@@ -1419,8 +2235,25 @@
    "page": "/areas-covered/chelsea-removals/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 21.48,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals sw3",
@@ -1429,8 +2262,25 @@
    "page": "/areas-covered/chelsea-removals/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals chelsea",
@@ -1439,8 +2289,25 @@
    "page": "/areas-covered/chelsea-removals/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals fulham",
@@ -1449,8 +2316,25 @@
    "page": "/areas-covered/fulham-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.58,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "fulham removals",
@@ -1469,8 +2353,25 @@
    "page": "/areas-covered/fulham-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals shepherds bush",
@@ -1479,8 +2380,25 @@
    "page": "/areas-covered/shepherds-bush-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shepherds bush removals",
@@ -1489,8 +2407,25 @@
    "page": "/areas-covered/shepherds-bush-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals w12",
@@ -1499,8 +2434,25 @@
    "page": "/areas-covered/shepherds-bush-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals isleworth",
@@ -1509,8 +2461,25 @@
    "page": "/areas-covered/isleworth-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.72,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "isleworth removals",
@@ -1520,7 +2489,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals tw7",
@@ -1529,8 +2515,25 @@
    "page": "/areas-covered/isleworth-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals putney",
@@ -1539,8 +2542,25 @@
    "page": "/areas-covered/putney-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "putney removals",
@@ -1559,8 +2579,25 @@
    "page": "/areas-covered/putney-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals wandsworth",
@@ -1569,8 +2606,25 @@
    "page": "/areas-covered/wandsworth-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.82,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "wandsworth removals",
@@ -1579,8 +2633,25 @@
    "page": "/areas-covered/wandsworth-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals sw18",
@@ -1589,8 +2660,25 @@
    "page": "/areas-covered/wandsworth-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals notting hill",
@@ -1599,8 +2687,25 @@
    "page": "/areas-covered/notting-hill-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.89,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "notting hill removals",
@@ -1609,8 +2714,25 @@
    "page": "/areas-covered/notting-hill-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.89,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals w11",
@@ -1619,8 +2741,25 @@
    "page": "/areas-covered/notting-hill-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals kew",
@@ -1629,8 +2768,25 @@
    "page": "/areas-covered/kew-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "kew removals",
@@ -1639,8 +2795,25 @@
    "page": "/areas-covered/kew-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals hounslow",
@@ -1649,8 +2822,25 @@
    "page": "/areas-covered/hounslow-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.43,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "hounslow removals",
@@ -1669,8 +2859,25 @@
    "page": "/areas-covered/hounslow-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals twickenham",
@@ -1679,8 +2886,25 @@
    "page": "/areas-covered/twickenham-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 11.04,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "twickenham removals",
@@ -1699,8 +2923,25 @@
    "page": "/areas-covered/twickenham-removals/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals barnes",
@@ -1709,8 +2950,25 @@
    "page": "/areas-covered/barnes-removals/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 4.87,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "barnes removals",
@@ -1719,8 +2977,25 @@
    "page": "/areas-covered/barnes-removals/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 4.87,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals sw13",
@@ -1729,8 +3004,25 @@
    "page": "/areas-covered/barnes-removals/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals gunnersbury",
@@ -1740,7 +3032,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "gunnersbury removals",
@@ -1750,7 +3059,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals white city",
@@ -1759,8 +3085,25 @@
    "page": "/areas-covered/white-city-removals/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "white city removals",
@@ -1770,7 +3113,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals bromley",
@@ -1779,8 +3139,25 @@
    "page": "/areas-covered/bromley-removals/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.32,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "bromley removals",
@@ -1799,8 +3176,25 @@
    "page": "/areas-covered/bromley-removals/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 0.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals surrey",
@@ -1809,8 +3203,25 @@
    "page": "/areas-covered/surrey-removals/",
    "status": "draft",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.06,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "surrey removals",
@@ -1830,7 +3241,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "park royal removals",
@@ -1840,7 +3268,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "commercial removals park royal",
@@ -1850,7 +3295,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office relocation park royal",
@@ -1860,7 +3322,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals kingston",
@@ -1869,8 +3348,25 @@
    "page": "/areas-covered/kingston-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.5,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company kingston",
@@ -1879,8 +3375,25 @@
    "page": "/areas-covered/kingston-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.27,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals wimbledon",
@@ -1889,8 +3402,25 @@
    "page": "/areas-covered/wimbledon-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.73,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company wimbledon",
@@ -1899,8 +3429,25 @@
    "page": "/areas-covered/wimbledon-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.73,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals battersea",
@@ -1909,8 +3456,25 @@
    "page": "/areas-covered/battersea-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.32,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company battersea",
@@ -1919,8 +3483,25 @@
    "page": "/areas-covered/battersea-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.32,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals clapham",
@@ -1929,8 +3510,25 @@
    "page": "/areas-covered/clapham-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.9,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company clapham",
@@ -1939,8 +3537,25 @@
    "page": "/areas-covered/clapham-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 11.04,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals hanwell",
@@ -1949,8 +3564,25 @@
    "page": "/areas-covered/hanwell-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company hanwell",
@@ -1960,7 +3592,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals southall",
@@ -1969,8 +3618,25 @@
    "page": "/areas-covered/southall-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company southall",
@@ -1980,7 +3646,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals teddington",
@@ -1989,8 +3672,25 @@
    "page": "/areas-covered/teddington-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.72,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company teddington",
@@ -2000,7 +3700,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals ruislip",
@@ -2009,8 +3726,25 @@
    "page": "/areas-covered/ruislip-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.54,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company ruislip",
@@ -2019,8 +3753,25 @@
    "page": "/areas-covered/ruislip-removals/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.54,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals west london",
@@ -2029,8 +3780,25 @@
    "page": "/areas-covered/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.26,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "west london removals",
@@ -2049,8 +3817,25 @@
    "page": "/areas-covered/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 13.5,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals west london",
@@ -2059,8 +3844,25 @@
    "page": "/areas-covered/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.18,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company west london",
@@ -2069,8 +3871,25 @@
    "page": "/areas-covered/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 13.5,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals near me west london",
@@ -2080,7 +3899,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals south west london",
@@ -2089,8 +3925,25 @@
    "page": "/areas-covered/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 12.36,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals hounslow and richmond",
@@ -2100,7 +3953,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal company london",
@@ -2109,8 +3979,25 @@
    "page": "/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.29,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london",
@@ -2119,8 +4006,25 @@
    "page": "/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.97,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "london removals",
@@ -2159,8 +4063,25 @@
    "page": "/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving company london",
@@ -2169,8 +4090,25 @@
    "page": "/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.27,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "best removal company london",
@@ -2179,8 +4117,25 @@
    "page": "/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.85,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals near me",
@@ -2189,8 +4144,25 @@
    "page": "/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.32,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "k1 removals",
@@ -2199,8 +4171,25 @@
    "page": "/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 4.5,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "full service removals london",
@@ -2210,7 +4199,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "insured removals london",
@@ -2220,7 +4226,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals london",
@@ -2229,8 +4252,25 @@
    "page": "/removals/house-moves/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.25,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "4 bed house removals london",
@@ -2240,7 +4280,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "3 bed house removals london",
@@ -2250,7 +4307,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "5 bed house removals london",
@@ -2260,7 +4334,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "home removals london",
@@ -2269,8 +4360,25 @@
    "page": "/removals/house-moves/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 11.21,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house movers london",
@@ -2279,8 +4387,25 @@
    "page": "/removals/house-moves/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.22,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "family house move london",
@@ -2290,7 +4415,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "large house removals london",
@@ -2300,7 +4442,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removal company london",
@@ -2309,8 +4468,25 @@
    "page": "/removals/house-moves/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.72,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving house london",
@@ -2329,8 +4505,25 @@
    "page": "/removals/house-moves/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "residential removals london",
@@ -2339,8 +4532,25 @@
    "page": "/removals/house-moves/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "prime central london removals",
@@ -2350,7 +4560,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "luxury removals london",
@@ -2360,7 +4587,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "high end removals london",
@@ -2370,7 +4614,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "mayfair removals",
@@ -2379,8 +4640,25 @@
    "page": "/removals/prime-central-london/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.18,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "belgravia removals",
@@ -2389,8 +4667,25 @@
    "page": "/removals/prime-central-london/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "knightsbridge removals",
@@ -2399,8 +4694,25 @@
    "page": "/removals/prime-central-london/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "white glove removals london",
@@ -2410,7 +4722,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "flat removals london",
@@ -2419,8 +4748,25 @@
    "page": "/removals/flats/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.02,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "apartment removals london",
@@ -2430,7 +4776,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "flat movers london",
@@ -2439,8 +4802,25 @@
    "page": "/removals/flats/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.51,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "small removals london",
@@ -2449,8 +4829,25 @@
    "page": "/removals/flats/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.79,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "1 bed flat removals london",
@@ -2460,7 +4857,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "2 bed flat move london",
@@ -2470,7 +4884,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "packing services london",
@@ -2479,8 +4910,25 @@
    "page": "/removals/packing-services/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.55,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "professional packers london",
@@ -2489,8 +4937,25 @@
    "page": "/removals/packing-services/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house packing service london",
@@ -2500,7 +4965,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "packing and removals london",
@@ -2509,8 +4991,25 @@
    "page": "/removals/packing-services/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.78,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "export packing london",
@@ -2520,7 +5019,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "fragile packing london",
@@ -2530,7 +5046,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "packing and unpacking service london",
@@ -2540,7 +5073,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals and storage london",
@@ -2549,8 +5099,25 @@
    "page": "/removals/storage-services/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 14.45,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removal storage london",
@@ -2559,8 +5126,25 @@
    "page": "/removals/storage-services/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 17.02,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "storage during house move london",
@@ -2570,7 +5154,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "short term storage removals london",
@@ -2580,7 +5181,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "containerised storage london",
@@ -2589,8 +5207,25 @@
    "page": "/removals/storage-services/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.18,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "furniture storage london",
@@ -2599,8 +5234,25 @@
    "page": "/removals/storage-services/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 15.26,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "household storage west london",
@@ -2610,7 +5262,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "piano removals london",
@@ -2619,8 +5288,25 @@
    "page": "/removals/piano/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.75,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "piano movers london",
@@ -2629,8 +5315,25 @@
    "page": "/removals/piano/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.72,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "grand piano removals london",
@@ -2640,7 +5343,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "upright piano movers london",
@@ -2650,7 +5370,24 @@
    "status": "live",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "piano moving company london",
@@ -2659,8 +5396,25 @@
    "page": "/removals/piano/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.75,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk house removals",
@@ -2669,8 +5423,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.32,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "national removals uk",
@@ -2679,8 +5450,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.12,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "long distance removals uk",
@@ -2689,8 +5477,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.09,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk removal company",
@@ -2699,8 +5504,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.26,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "long distance movers uk",
@@ -2709,8 +5531,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.78,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "nationwide removals",
@@ -2719,8 +5558,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.52,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals across the uk",
@@ -2730,7 +5586,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "house removals uk",
@@ -2749,8 +5622,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 13.9,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to birmingham",
@@ -2759,8 +5649,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to bristol",
@@ -2769,8 +5676,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to edinburgh",
@@ -2779,8 +5703,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.26,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to glasgow",
@@ -2789,8 +5730,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 9.46,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to leeds",
@@ -2799,8 +5757,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to cardiff",
@@ -2810,7 +5785,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to oxford",
@@ -2820,7 +5812,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to cambridge",
@@ -2830,7 +5839,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to brighton",
@@ -2839,8 +5865,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving from london to manchester",
@@ -2849,8 +5892,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.41,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving from london to birmingham",
@@ -2859,8 +5919,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.28,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving from london to bristol",
@@ -2869,8 +5946,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.7,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving from london to edinburgh",
@@ -2879,8 +5973,25 @@
    "page": "/uk-house-removals/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.04,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals london",
@@ -2889,8 +6000,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 48.95,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "commercial removals london",
@@ -2899,8 +6027,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 49.84,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals west london",
@@ -2909,8 +6054,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office relocation london",
@@ -2919,8 +6081,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 35.12,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office movers london",
@@ -2929,8 +6108,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 58.98,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "business relocation london",
@@ -2939,8 +6135,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "commercial movers london",
@@ -2949,8 +6162,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office relocation company london",
@@ -2959,8 +6189,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 63.26,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office move london",
@@ -2979,8 +6226,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "workplace relocation london",
@@ -2990,7 +6254,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office furniture removals london",
@@ -2999,8 +6280,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "weekend office removals london",
@@ -3010,7 +6308,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office relocation project management",
@@ -3019,8 +6334,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "commercial relocation services uk",
@@ -3030,7 +6362,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office removals uk",
@@ -3039,8 +6388,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "small office move london",
@@ -3050,7 +6416,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office move checklist",
@@ -3059,8 +6442,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 4.41,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "how to plan an office move",
@@ -3069,8 +6469,25 @@
    "page": "/removals/office/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "it relocation london",
@@ -3079,8 +6496,25 @@
    "page": "/removals/office/it-server-relocation/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 28.45,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "server relocation london",
@@ -3089,8 +6523,25 @@
    "page": "/removals/office/it-server-relocation/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "it equipment relocation",
@@ -3099,8 +6550,25 @@
    "page": "/removals/office/it-server-relocation/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office it move london",
@@ -3110,7 +6578,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "school relocation london",
@@ -3120,7 +6605,24 @@
    "status": "needs-confirm",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "retail store relocation london",
@@ -3130,7 +6632,24 @@
    "status": "needs-confirm",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "clinic relocation london",
@@ -3140,7 +6659,24 @@
    "status": "needs-confirm",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "laboratory relocation london",
@@ -3149,8 +6685,25 @@
    "page": "/removals/office/ (sections)",
    "status": "needs-confirm",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "business storage london",
@@ -3159,8 +6712,25 @@
    "page": "/removals/storage-services/business-storage/",
    "status": "draft",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 11.49,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office storage london",
@@ -3169,8 +6739,25 @@
    "page": "/removals/storage-services/business-storage/",
    "status": "draft",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "document storage london",
@@ -3179,8 +6766,25 @@
    "page": "/removals/storage-services/business-storage/",
    "status": "draft",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 18.05,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "archive storage london",
@@ -3189,8 +6793,25 @@
    "page": "/removals/storage-services/business-storage/",
    "status": "draft",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 23.8,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "confidential shredding london",
@@ -3199,8 +6820,25 @@
    "page": "/removals/office/document-shredding/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.01,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "document shredding london",
@@ -3209,8 +6847,25 @@
    "page": "/removals/office/document-shredding/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shredding service london",
@@ -3219,8 +6874,25 @@
    "page": "/removals/office/document-shredding/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 3.64,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "secure shredding london",
@@ -3229,8 +6901,25 @@
    "page": "/removals/office/document-shredding/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "office shredding service",
@@ -3239,8 +6928,25 @@
    "page": "/removals/office/document-shredding/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.75,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "on site shredding london",
@@ -3249,8 +6955,25 @@
    "page": "/removals/office/document-shredding/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "paper shredding west london",
@@ -3260,7 +6983,24 @@
    "status": "new",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "confidential waste london",
@@ -3269,8 +7009,25 @@
    "page": "/removals/office/document-shredding/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals london",
@@ -3279,8 +7036,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.77,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals uk",
@@ -3289,8 +7063,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 19.84,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removal company london",
@@ -3299,8 +7090,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 13.43,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "overseas removals london",
@@ -3309,8 +7117,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international movers london",
@@ -3319,8 +7144,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 11.34,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving abroad from uk",
@@ -3329,8 +7171,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 3.55,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international relocation london",
@@ -3339,8 +7198,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shipping household goods abroad",
@@ -3350,7 +7226,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "overseas removals uk",
@@ -3359,8 +7252,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international house move",
@@ -3369,8 +7279,25 @@
    "page": "/areas-covered/international-removals/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "sea freight removals uk",
@@ -3380,7 +7307,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "door to door international removals",
@@ -3390,7 +7334,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to spain",
@@ -3399,8 +7360,25 @@
    "page": "/removals-london-to-spain/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to spain",
@@ -3409,8 +7387,25 @@
    "page": "/removals-london-to-spain/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.72,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to spain from uk",
@@ -3419,8 +7414,25 @@
    "page": "/removals-london-to-spain/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.75,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shipping furniture to spain",
@@ -3429,8 +7441,25 @@
    "page": "/removals-london-to-spain/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.51,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to spain",
@@ -3439,8 +7468,25 @@
    "page": "/removals-london-to-spain/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.08,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk to spain removals",
@@ -3449,8 +7495,25 @@
    "page": "/removals-london-to-spain/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.79,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to dubai",
@@ -3460,7 +7523,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to dubai",
@@ -3469,8 +7549,25 @@
    "page": "/removals-london-to-dubai/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 16.5,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to uae from uk",
@@ -3479,8 +7576,25 @@
    "page": "/removals-london-to-dubai/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 2.31,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shipping furniture to dubai",
@@ -3489,8 +7603,25 @@
    "page": "/removals-london-to-dubai/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.42,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to dubai",
@@ -3499,8 +7630,25 @@
    "page": "/removals-london-to-dubai/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk to dubai removals",
@@ -3510,7 +7658,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to australia",
@@ -3520,7 +7685,24 @@
    "status": "live",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to australia",
@@ -3529,8 +7711,25 @@
    "page": "/removals-london-to-australia/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.24,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to australia from uk",
@@ -3539,8 +7738,25 @@
    "page": "/removals-london-to-australia/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.38,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shipping furniture to australia",
@@ -3549,8 +7765,25 @@
    "page": "/removals-london-to-australia/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.0,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to australia",
@@ -3559,8 +7792,25 @@
    "page": "/removals-london-to-australia/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk to australia removals",
@@ -3569,8 +7819,25 @@
    "page": "/removals-london-to-australia/",
    "status": "live",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 21.11,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to france",
@@ -3579,8 +7846,25 @@
    "page": "/removals-london-to-france/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to france",
@@ -3589,8 +7873,25 @@
    "page": "/removals-london-to-france/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.28,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to france from uk",
@@ -3599,8 +7900,25 @@
    "page": "/removals-london-to-france/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 2.88,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shipping furniture to france",
@@ -3609,8 +7927,25 @@
    "page": "/removals-london-to-france/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to france",
@@ -3619,8 +7954,25 @@
    "page": "/removals-london-to-france/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk to france removals",
@@ -3629,8 +7981,25 @@
    "page": "/removals-london-to-france/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 13.38,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to portugal",
@@ -3640,7 +8009,24 @@
    "status": "draft",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to portugal",
@@ -3649,8 +8035,25 @@
    "page": "/removals-london-to-portugal/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.45,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to portugal from uk",
@@ -3659,8 +8062,25 @@
    "page": "/removals-london-to-portugal/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.75,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shipping furniture to portugal",
@@ -3669,8 +8089,25 @@
    "page": "/removals-london-to-portugal/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.92,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to portugal",
@@ -3679,8 +8116,25 @@
    "page": "/removals-london-to-portugal/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk to portugal removals",
@@ -3690,7 +8144,24 @@
    "status": "draft",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to usa",
@@ -3700,7 +8171,24 @@
    "status": "draft",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to usa",
@@ -3709,8 +8197,25 @@
    "page": "/removals-london-to-usa/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.72,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to usa from uk",
@@ -3719,8 +8224,25 @@
    "page": "/removals-london-to-usa/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.34,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "shipping furniture to usa",
@@ -3729,8 +8251,25 @@
    "page": "/removals-london-to-usa/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 20.52,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to usa",
@@ -3739,8 +8278,25 @@
    "page": "/removals-london-to-usa/",
    "status": "draft",
    "priority": 1,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "uk to usa removals",
@@ -3750,7 +8306,24 @@
    "status": "draft",
    "priority": 1,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to canada",
@@ -3760,7 +8333,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to canada",
@@ -3769,8 +8359,25 @@
    "page": "/removals-london-to-canada/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 4.94,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to canada from uk",
@@ -3779,8 +8386,25 @@
    "page": "/removals-london-to-canada/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.02,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to canada",
@@ -3789,8 +8413,25 @@
    "page": "/removals-london-to-canada/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to germany",
@@ -3800,7 +8441,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to germany",
@@ -3809,8 +8467,25 @@
    "page": "/removals-london-to-germany/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.48,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to germany from uk",
@@ -3819,8 +8494,25 @@
    "page": "/removals-london-to-germany/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 3.67,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to germany",
@@ -3829,8 +8521,25 @@
    "page": "/removals-london-to-germany/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to europe",
@@ -3840,7 +8549,24 @@
    "status": "draft",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to europe",
@@ -3849,8 +8575,25 @@
    "page": "/removals-london-to-europe/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.71,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to europe from uk",
@@ -3859,8 +8602,25 @@
    "page": "/removals-london-to-europe/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 3.87,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to europe",
@@ -3869,8 +8629,25 @@
    "page": "/removals-london-to-europe/",
    "status": "draft",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to new zealand",
@@ -3880,7 +8657,24 @@
    "status": "new",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to new zealand",
@@ -3889,8 +8683,25 @@
    "page": "/removals-london-to-new-zealand/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 10.22,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to new zealand from uk",
@@ -3899,8 +8710,25 @@
    "page": "/removals-london-to-new-zealand/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.25,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to new zealand",
@@ -3909,8 +8737,25 @@
    "page": "/removals-london-to-new-zealand/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 12.68,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to ireland",
@@ -3919,8 +8764,25 @@
    "page": "/removals-london-to-ireland/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to ireland",
@@ -3929,8 +8791,25 @@
    "page": "/removals-london-to-ireland/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 8.19,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to ireland from uk",
@@ -3939,8 +8818,25 @@
    "page": "/removals-london-to-ireland/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 3.72,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "international removals to ireland",
@@ -3949,8 +8845,25 @@
    "page": "/removals-london-to-ireland/ (new)",
    "status": "new",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to netherlands",
@@ -3960,7 +8873,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to netherlands",
@@ -3969,8 +8899,25 @@
    "page": "/removals-london-to-netherlands/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.59,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to netherlands from uk",
@@ -3979,8 +8926,25 @@
    "page": "/removals-london-to-netherlands/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 5.17,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to italy",
@@ -3990,7 +8954,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to italy",
@@ -3999,8 +8980,25 @@
    "page": "/removals-london-to-italy/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 6.49,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to italy from uk",
@@ -4009,8 +9007,25 @@
    "page": "/removals-london-to-italy/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 2.66,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to switzerland",
@@ -4019,8 +9034,25 @@
    "page": "/removals-london-to-switzerland/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to switzerland",
@@ -4029,8 +9061,25 @@
    "page": "/removals-london-to-switzerland/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.58,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to switzerland from uk",
@@ -4039,8 +9088,25 @@
    "page": "/removals-london-to-switzerland/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 2.05,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to south africa",
@@ -4050,7 +9116,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to south africa",
@@ -4059,8 +9142,25 @@
    "page": "/removals-london-to-south-africa/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 7.4,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to south africa from uk",
@@ -4069,8 +9169,25 @@
    "page": "/removals-london-to-south-africa/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 4.56,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to singapore",
@@ -4080,7 +9197,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to singapore",
@@ -4089,8 +9223,25 @@
    "page": "/removals-london-to-singapore/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to singapore from uk",
@@ -4099,8 +9250,25 @@
    "page": "/removals-london-to-singapore/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 2.28,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals london to hong kong",
@@ -4110,7 +9278,24 @@
    "status": "new",
    "priority": 3,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals to hong kong",
@@ -4119,8 +9304,25 @@
    "page": "/removals-london-to-hong-kong/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to hong kong from uk",
@@ -4129,8 +9331,25 @@
    "page": "/removals-london-to-hong-kong/ (new)",
    "status": "new",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 4.95,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to the usa from the uk",
@@ -4149,8 +9368,25 @@
    "page": "/contact/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 12.73,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "free removals quote",
@@ -4159,8 +9395,25 @@
    "page": "/contact/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "home survey removals",
@@ -4170,7 +9423,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "video survey removals",
@@ -4179,8 +9449,25 @@
    "page": "/contact/",
    "status": "live",
    "priority": 2,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "removals callback",
@@ -4190,7 +9477,24 @@
    "status": "live",
    "priority": 2,
    "volume": null,
-   "difficulty": null
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving house checklist uk",
@@ -4199,8 +9503,25 @@
    "page": "/blog/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 5000.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 0.66,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "how to pack for a house move",
@@ -4209,8 +9530,25 @@
    "page": "/blog/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 3.22,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving abroad checklist",
@@ -4219,8 +9557,25 @@
    "page": "/blog/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.81,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "what to do when moving house",
@@ -4229,8 +9584,25 @@
    "page": "/blog/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 500.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": 1.28,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   },
   {
    "keyword": "moving to london guide",
@@ -4239,8 +9611,25 @@
    "page": "/blog/",
    "status": "live",
    "priority": 3,
-   "volume": null,
-   "difficulty": null
+   "volume": 50.0,
+   "difficulty": null,
+   "volume_range": null,
+   "cpc": null,
+   "trend": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ],
+   "vol_source": "Google Keyword Planner"
   }
  ],
  "pr_leads": [
@@ -4466,5 +9855,7 @@
    "length": "1,000–1,400 words + 6 FAQs",
    "command": "/write topics/removals-chiswick.md"
   }
- ]
+ ],
+ "volumes_updated": "2026-10-24",
+ "volume_source": "Google Keyword Planner"
 }
