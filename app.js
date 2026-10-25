@@ -45,8 +45,6 @@ fetch("data.json").then(r=>r.json()).then(D=>{
  $("#draftCards").innerHTML=D.drafts.map(d=>`<div class="card"><span class="tag a">${esc(d.status)}</span><span class="tag">${esc(d.type)}</span><h4>${esc(d.name.replace(/-/g," "))}</h4>${d.url?`<p><code>${esc(d.url)}</code> · ${esc(d.words)} words</p>`:""}<p>${esc(d.notes)}</p></div>`).join("");
  $("#prCards").innerHTML=D.pr_leads.map(p=>`<div class="card"><span class="tag">${esc(p.type)}</span><h4><a href="${esc(p.url)}" target="_blank" rel="noopener">${esc(p.name)}</a></h4><p>${esc(p.why_relevant)}</p><p><b>Pitch:</b> ${esc(p.how_to_pitch)}</p><p class="ph">${esc(p.cost_or_caveat)}</p></div>`).join("");
  $("#blockCards").innerHTML=D.blockers.map(b=>`<div class="card" style="border-left:5px solid ${b.sev=="Critical"?"var(--red)":b.sev=="High"?"var(--amber)":"var(--blue)"}"><span class="tag ${b.sev=="Critical"?"r":"a"}">${esc(b.sev)}</span><span class="tag">Owner: ${esc(b.owner)}</span><h4>${esc(b.t)}</h4><p>${esc(b.impact)}</p><p class="ph">${esc(b.status)}</p></div>`).join("");
- $("#rankNote").textContent=D.rank_check_note+" Positions appear here once Search Console is connected. We never estimate them.";
- $("#rankBody").innerHTML=D.tracked_keywords.map(k=>`<tr><td><b>${esc(k.keyword)}</b></td><td>${esc(k.group)}</td><td class="ph">— awaiting Search Console</td><td>Top ${esc(k.target_position)}</td><td>${esc(k.next_action)}</td></tr>`).join("");
  document.querySelectorAll(".sec,.panel,.kc").forEach(e=>{e.classList.add("reveal");io.observe(e)});
 });
 function countUpAll(){document.querySelectorAll(".hero [data-count]").forEach(countUp)}
