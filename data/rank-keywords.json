@@ -513,6 +513,15 @@
   "area": "Acton"
  },
  {
+  "keyword": "barnes removals",
+  "volume_band": 500,
+  "target_page": "",
+  "origin": "Added 26 Oct (SW London areas)",
+  "priority": null,
+  "group": "West London",
+  "area": "Barnes"
+ },
+ {
   "keyword": "brentford removals",
   "volume_band": null,
   "target_page": "/areas-covered/brentford-removals/",
@@ -693,6 +702,15 @@
   "area": "Richmond"
  },
  {
+  "keyword": "putney removals",
+  "volume_band": null,
+  "target_page": "",
+  "origin": "Added 26 Oct (SW London areas)",
+  "priority": null,
+  "group": "West London",
+  "area": "Putney"
+ },
+ {
   "keyword": "removal companies acton",
   "volume_band": null,
   "target_page": "/areas-covered/acton-removals/",
@@ -837,6 +855,15 @@
   "area": "Acton"
  },
  {
+  "keyword": "removals barnes",
+  "volume_band": 500,
+  "target_page": "",
+  "origin": "Added 26 Oct (SW London areas)",
+  "priority": null,
+  "group": "West London",
+  "area": "Barnes"
+ },
+ {
   "keyword": "removals brentford",
   "volume_band": 50,
   "target_page": "/areas-covered/brentford-removals/",
@@ -927,6 +954,15 @@
   "area": "Notting Hill"
  },
  {
+  "keyword": "removals putney",
+  "volume_band": 500,
+  "target_page": "",
+  "origin": "Added 26 Oct (SW London areas)",
+  "priority": null,
+  "group": "West London",
+  "area": "Putney"
+ },
+ {
   "keyword": "removals richmond",
   "volume_band": 500,
   "target_page": "/areas-covered/richmond-removals/",
@@ -963,6 +999,15 @@
   "area": "W4"
  },
  {
+  "keyword": "removals wandsworth",
+  "volume_band": 500,
+  "target_page": "",
+  "origin": "Added 26 Oct (SW London areas)",
+  "priority": null,
+  "group": "West London",
+  "area": "Wandsworth"
+ },
+ {
   "keyword": "removals west london",
   "volume_band": 500,
   "target_page": "/areas-covered/",
@@ -997,6 +1042,15 @@
   "priority": null,
   "group": "West London",
   "area": "W4"
+ },
+ {
+  "keyword": "wandsworth removals",
+  "volume_band": 500,
+  "target_page": "",
+  "origin": "Added 26 Oct (SW London areas)",
+  "priority": null,
+  "group": "West London",
+  "area": "Wandsworth"
  },
  {
   "keyword": "west london removals",

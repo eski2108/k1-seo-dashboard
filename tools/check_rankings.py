@@ -286,7 +286,7 @@ def main():
         try:
             todo = kws[: a.limit] if a.limit else kws
             for i, k in enumerate(todo):
-                if a.resume and any(x["checked_at"][:10] == now()[:10] and (a.engine == "auto" or a.engine[:4] in x["source"].lower()) for x in hist.get(k["keyword"], [])):
+                if a.resume and any(x["checked_at"][:10] == now()[:10] and (a.engine == "auto" or {"ddg":"duckduckgo","google":"google","brave":"brave"}[a.engine] in x["source"].lower()) for x in hist.get(k["keyword"], [])):
                     continue
                 if ck.google_blocked and a.engine == "google": print("stopping: Google blocked"); break
                 try: r = ck.check(k["keyword"])
