@@ -28,10 +28,11 @@ DDG_LABEL = "DuckDuckGo UK (not Google) – interim"
 GOOGLE_LABEL = "Google UK (live SERP, non-personalised)"
 BRAVE_LABEL = "Brave Search UK (not Google) – interim"
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+EXTRA = [(f"removals {a}", "") for a in ("putney","wandsworth","barnes")] + [(f"{a} removals", "") for a in ("putney","wandsworth","barnes")]
 LDN = ZoneInfo("Europe/London")
 
 W_LONDON = ["chiswick","w4","ealing","hammersmith","richmond","kensington","acton","brentford","isleworth",
-            "twickenham","notting hill","white city","shepherds bush","kew","hounslow","chelsea","gunnersbury","west london","fulham"]
+            "twickenham","notting hill","white city","shepherds bush","kew","hounslow","chelsea","gunnersbury","west london","fulham","putney","wandsworth","barnes"]
 INTL = ["international","spain","dubai","australia","usa","france","portugal","abroad","overseas","europe","uae","america"]
 UK = ["manchester","birmingham","bristol","edinburgh","leeds","glasgow","liverpool","uk","nationwide","long distance","scotland","wales","cardiff"]
 
@@ -87,6 +88,10 @@ def build_keywords():
             if k and k not in kws:
                 kws[k] = dict(keyword=k, volume_band=None, target_page=urllib.parse.urlparse(r.get("Final URL") or "").path or "",
                               origin="Google Ads: " + (r.get("Ad Group") or ""), priority=None)
+    # 4) extra tracked keywords (added 26 Oct)
+    for k, page in EXTRA:
+        if k not in kws:
+            kws[k] = dict(keyword=k, volume_band=None, target_page=page, origin="Added 26 Oct (SW London areas)", priority=None)
     for k, v in kws.items():
         if v["volume_band"] is None and k in planner: v["volume_band"] = planner[k]
         v["group"] = group_of(k); v["area"] = area_of(k)

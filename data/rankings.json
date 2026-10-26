@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26 00:15 GMT",
- "last_checked": "2026-10-26 00:15 GMT",
+ "generated": "2026-10-26 08:58 GMT",
+ "last_checked": "2026-10-26 08:58 GMT",
  "sources": [
   "DuckDuckGo UK (not Google) – interim",
   "Google UK (live SERP, non-personalised)"
@@ -10,13 +10,13 @@
   "checked": 116,
   "top3": 0,
   "top10": 2,
-  "top100": 9,
-  "ranking": 9,
-  "avg_position": 19.3,
+  "top100": 13,
+  "ranking": 13,
+  "avg_position": 32.4,
   "improved": 0,
-  "declined": 0,
-  "new": 9,
-  "lost": 0
+  "declined": 3,
+  "new": 7,
+  "lost": 3
  },
  "volume_source": "Google Keyword Planner UK, avg monthly searches (approximate bands: 0 / 50 / 500 / 5,000)",
  "note": "Positions are real readings only. Organic results counted (ads, map pack and 'People also ask' excluded). Where a keyword has no reading it says 'Not checked yet'.",
@@ -32,7 +32,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:21 GMT",
+   "checked_at": "2026-10-26 07:01 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -41,6 +41,10 @@
    "history": [
     {
      "d": "2026-10-25 20:21 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:01 GMT",
      "p": null
     }
    ],
@@ -57,7 +61,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:22 GMT",
+   "checked_at": "2026-10-26 07:02 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -66,6 +70,10 @@
    "history": [
     {
      "d": "2026-10-25 20:22 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:02 GMT",
      "p": null
     }
    ],
@@ -82,7 +90,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:22 GMT",
+   "checked_at": "2026-10-26 07:03 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -91,6 +99,10 @@
    "history": [
     {
      "d": "2026-10-25 20:22 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:03 GMT",
      "p": null
     }
    ],
@@ -107,7 +119,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:23 GMT",
+   "checked_at": "2026-10-26 07:04 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -116,6 +128,10 @@
    "history": [
     {
      "d": "2026-10-25 20:23 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:04 GMT",
      "p": null
     }
    ],
@@ -132,7 +148,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:23 GMT",
+   "checked_at": "2026-10-26 07:05 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -141,6 +157,10 @@
    "history": [
     {
      "d": "2026-10-25 20:23 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:05 GMT",
      "p": null
     }
    ],
@@ -157,7 +177,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:24 GMT",
+   "checked_at": "2026-10-26 07:06 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -166,6 +186,10 @@
    "history": [
     {
      "d": "2026-10-25 20:24 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:06 GMT",
      "p": null
     }
    ],
@@ -182,8 +206,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:24 GMT",
-   "checked_depth": 50,
+   "checked_at": "2026-10-26 07:07 GMT",
+   "checked_depth": 23,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -191,6 +215,10 @@
    "history": [
     {
      "d": "2026-10-25 20:24 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:07 GMT",
      "p": null
     }
    ],
@@ -207,7 +235,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:25 GMT",
+   "checked_at": "2026-10-26 07:08 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -216,6 +244,10 @@
    "history": [
     {
      "d": "2026-10-25 20:25 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:08 GMT",
      "p": null
     }
    ],
@@ -232,7 +264,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:25 GMT",
+   "checked_at": "2026-10-26 07:09 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -241,6 +273,10 @@
    "history": [
     {
      "d": "2026-10-25 20:25 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:09 GMT",
      "p": null
     }
    ],
@@ -257,7 +293,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:26 GMT",
+   "checked_at": "2026-10-26 07:11 GMT",
    "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
@@ -266,6 +302,10 @@
    "history": [
     {
      "d": "2026-10-25 20:26 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:11 GMT",
      "p": null
     }
    ],
@@ -282,8 +322,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:47 GMT",
-   "checked_depth": 25,
+   "checked_at": "2026-10-26 07:12 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -291,6 +331,10 @@
    "history": [
     {
      "d": "2026-10-25 20:47 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:12 GMT",
      "p": null
     }
    ],
@@ -307,8 +351,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:47 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:13 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -316,6 +360,10 @@
    "history": [
     {
      "d": "2026-10-25 20:47 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:13 GMT",
      "p": null
     }
    ],
@@ -332,8 +380,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:48 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:14 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -341,6 +389,10 @@
    "history": [
     {
      "d": "2026-10-25 20:48 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:14 GMT",
      "p": null
     }
    ],
@@ -357,8 +409,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:49 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:15 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -366,6 +418,10 @@
    "history": [
     {
      "d": "2026-10-25 20:49 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:15 GMT",
      "p": null
     }
    ],
@@ -382,8 +438,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:50 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:16 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -391,6 +447,10 @@
    "history": [
     {
      "d": "2026-10-25 20:50 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:16 GMT",
      "p": null
     }
    ],
@@ -407,8 +467,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 20:51 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:19 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -416,6 +476,10 @@
    "history": [
     {
      "d": "2026-10-25 20:51 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:19 GMT",
      "p": null
     }
    ],
@@ -707,8 +771,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:01 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:29 GMT",
+   "checked_depth": 40,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -716,6 +780,10 @@
    "history": [
     {
      "d": "2026-10-25 21:01 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:29 GMT",
      "p": null
     }
    ],
@@ -907,8 +975,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:08 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:35 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -916,6 +984,10 @@
    "history": [
     {
      "d": "2026-10-25 21:08 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:35 GMT",
      "p": null
     }
    ],
@@ -1032,8 +1104,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:12 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:37 GMT",
+   "checked_depth": 39,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1041,6 +1113,10 @@
    "history": [
     {
      "d": "2026-10-25 21:12 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:37 GMT",
      "p": null
     }
    ],
@@ -1057,8 +1133,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:13 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:38 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1066,6 +1142,10 @@
    "history": [
     {
      "d": "2026-10-25 21:13 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:38 GMT",
      "p": null
     }
    ],
@@ -1082,8 +1162,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:14 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:39 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1091,6 +1171,10 @@
    "history": [
     {
      "d": "2026-10-25 21:14 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:39 GMT",
      "p": null
     }
    ],
@@ -1107,8 +1191,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:15 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:40 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1116,6 +1200,10 @@
    "history": [
     {
      "d": "2026-10-25 21:15 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:40 GMT",
      "p": null
     }
    ],
@@ -1132,8 +1220,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:16 GMT",
-   "checked_depth": 25,
+   "checked_at": "2026-10-26 07:41 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1141,6 +1229,10 @@
    "history": [
     {
      "d": "2026-10-25 21:16 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:41 GMT",
      "p": null
     }
    ],
@@ -1157,8 +1249,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:17 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:42 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1166,6 +1258,10 @@
    "history": [
     {
      "d": "2026-10-25 21:17 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:42 GMT",
      "p": null
     }
    ],
@@ -1182,8 +1278,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 21:18 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:43 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1191,6 +1287,10 @@
    "history": [
     {
      "d": "2026-10-25 21:18 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:43 GMT",
      "p": null
     }
    ],
@@ -1207,8 +1307,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 22:34 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:44 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1216,6 +1316,10 @@
    "history": [
     {
      "d": "2026-10-25 22:34 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:44 GMT",
      "p": null
     }
    ],
@@ -1232,8 +1336,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 22:35 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:45 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1241,6 +1345,10 @@
    "history": [
     {
      "d": "2026-10-25 22:35 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:45 GMT",
      "p": null
     }
    ],
@@ -1257,8 +1365,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 22:36 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:46 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1266,6 +1374,10 @@
    "history": [
     {
      "d": "2026-10-25 22:36 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:46 GMT",
      "p": null
     }
    ],
@@ -1281,20 +1393,28 @@
    "area": "Birmingham",
    "position": null,
    "url": null,
-   "source": "Google UK (live SERP, non-personalised)",
-   "checked_at": "2026-10-25 22:54 GMT",
-   "checked_depth": 9,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 07:47 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
    "history": [
     {
-     "d": "2026-10-25 22:54 GMT",
+     "d": "2026-10-26 07:47 GMT",
      "p": null
     }
    ],
-   "other_sources": []
+   "other_sources": [
+    {
+     "source": "Google UK (live SERP, non-personalised)",
+     "position": null,
+     "depth": 9,
+     "checked_at": "2026-10-25 22:54 GMT",
+     "url": null
+    }
+   ]
   },
   {
    "keyword": "removals london to bristol",
@@ -1307,8 +1427,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 22:57 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:48 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1316,6 +1436,10 @@
    "history": [
     {
      "d": "2026-10-25 22:57 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:48 GMT",
      "p": null
     }
    ],
@@ -1332,8 +1456,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 22:58 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:49 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1341,6 +1465,10 @@
    "history": [
     {
      "d": "2026-10-25 22:58 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:49 GMT",
      "p": null
     }
    ],
@@ -1357,8 +1485,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 22:59 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:50 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1366,6 +1494,10 @@
    "history": [
     {
      "d": "2026-10-25 22:59 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:50 GMT",
      "p": null
     }
    ],
@@ -1382,8 +1514,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:00 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:51 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1391,6 +1523,10 @@
    "history": [
     {
      "d": "2026-10-25 23:00 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:51 GMT",
      "p": null
     }
    ],
@@ -1407,8 +1543,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:00 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:52 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1416,6 +1552,10 @@
    "history": [
     {
      "d": "2026-10-25 23:00 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:52 GMT",
      "p": null
     }
    ],
@@ -1429,19 +1569,23 @@
    "priority": null,
    "group": "West London",
    "area": "Acton",
-   "position": null,
-   "url": null,
+   "position": 42,
+   "url": "https://www.k1removals.com/areas-covered/acton-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:01 GMT",
-   "checked_depth": 30,
-   "status": "not_ranking",
+   "checked_at": "2026-10-26 07:54 GMT",
+   "checked_depth": 50,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
+   "movement": "new",
+   "best": 42,
    "history": [
     {
      "d": "2026-10-25 23:01 GMT",
      "p": null
+    },
+    {
+     "d": "2026-10-26 07:54 GMT",
+     "p": 42
     }
    ],
    "other_sources": []
@@ -1454,19 +1598,23 @@
    "priority": null,
    "group": "West London",
    "area": "Brentford",
-   "position": null,
-   "url": null,
+   "position": 43,
+   "url": "https://www.k1removals.com/areas-covered/brentford-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:02 GMT",
-   "checked_depth": 30,
-   "status": "not_ranking",
+   "checked_at": "2026-10-26 07:55 GMT",
+   "checked_depth": 50,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
+   "movement": "new",
+   "best": 43,
    "history": [
     {
      "d": "2026-10-25 23:02 GMT",
      "p": null
+    },
+    {
+     "d": "2026-10-26 07:55 GMT",
+     "p": 43
     }
    ],
    "other_sources": []
@@ -1482,8 +1630,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:03 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:56 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1491,6 +1639,10 @@
    "history": [
     {
      "d": "2026-10-25 23:03 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 07:56 GMT",
      "p": null
     }
    ],
@@ -1504,19 +1656,23 @@
    "priority": null,
    "group": "West London",
    "area": "Ealing",
-   "position": null,
-   "url": null,
+   "position": 46,
+   "url": "https://www.k1removals.com/areas-covered/ealing-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:04 GMT",
-   "checked_depth": 30,
-   "status": "not_ranking",
+   "checked_at": "2026-10-26 07:57 GMT",
+   "checked_depth": 50,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
+   "movement": "new",
+   "best": 46,
    "history": [
     {
      "d": "2026-10-25 23:04 GMT",
      "p": null
+    },
+    {
+     "d": "2026-10-26 07:57 GMT",
+     "p": 46
     }
    ],
    "other_sources": []
@@ -1529,19 +1685,23 @@
    "priority": null,
    "group": "West London",
    "area": "Hammersmith",
-   "position": 22,
+   "position": 27,
    "url": "https://www.k1removals.com/areas-covered/hammersmith-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:05 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:58 GMT",
+   "checked_depth": 50,
    "status": "ranking",
-   "change": null,
-   "movement": "new",
+   "change": -5,
+   "movement": "declined",
    "best": 22,
    "history": [
     {
      "d": "2026-10-25 23:05 GMT",
      "p": 22
+    },
+    {
+     "d": "2026-10-26 07:58 GMT",
+     "p": 27
     }
    ],
    "other_sources": []
@@ -1557,15 +1717,19 @@
    "position": 25,
    "url": "https://www.k1removals.com/areas-covered/acton-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:06 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 07:59 GMT",
+   "checked_depth": 50,
    "status": "ranking",
-   "change": null,
-   "movement": "new",
+   "change": 0,
+   "movement": "same",
    "best": 25,
    "history": [
     {
      "d": "2026-10-25 23:06 GMT",
+     "p": 25
+    },
+    {
+     "d": "2026-10-26 07:59 GMT",
      "p": 25
     }
    ],
@@ -1579,19 +1743,23 @@
    "priority": null,
    "group": "West London",
    "area": "Brentford",
-   "position": null,
-   "url": null,
+   "position": 41,
+   "url": "https://www.k1removals.com/areas-covered/brentford-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:06 GMT",
-   "checked_depth": 30,
-   "status": "not_ranking",
+   "checked_at": "2026-10-26 08:00 GMT",
+   "checked_depth": 50,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
+   "movement": "new",
+   "best": 41,
    "history": [
     {
      "d": "2026-10-25 23:06 GMT",
      "p": null
+    },
+    {
+     "d": "2026-10-26 08:00 GMT",
+     "p": 41
     }
    ],
    "other_sources": []
@@ -1607,8 +1775,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:07 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:01 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1616,6 +1784,10 @@
    "history": [
     {
      "d": "2026-10-25 23:07 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:01 GMT",
      "p": null
     }
    ],
@@ -1632,8 +1804,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:08 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:02 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1641,6 +1813,10 @@
    "history": [
     {
      "d": "2026-10-25 23:08 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:02 GMT",
      "p": null
     }
    ],
@@ -1654,19 +1830,23 @@
    "priority": null,
    "group": "West London",
    "area": "Hammersmith",
-   "position": null,
-   "url": null,
+   "position": 48,
+   "url": "https://www.k1removals.com/areas-covered/hammersmith-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:09 GMT",
-   "checked_depth": 30,
-   "status": "not_ranking",
+   "checked_at": "2026-10-26 08:03 GMT",
+   "checked_depth": 50,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
+   "movement": "new",
+   "best": 48,
    "history": [
     {
      "d": "2026-10-25 23:09 GMT",
      "p": null
+    },
+    {
+     "d": "2026-10-26 08:03 GMT",
+     "p": 48
     }
    ],
    "other_sources": []
@@ -1682,8 +1862,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:10 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:05 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1691,6 +1871,10 @@
    "history": [
     {
      "d": "2026-10-25 23:10 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:05 GMT",
      "p": null
     }
    ],
@@ -1707,7 +1891,7 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:10 GMT",
+   "checked_at": "2026-10-26 08:06 GMT",
    "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
@@ -1716,6 +1900,10 @@
    "history": [
     {
      "d": "2026-10-25 23:10 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:06 GMT",
      "p": null
     }
    ],
@@ -1732,8 +1920,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:11 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:06 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1741,6 +1929,10 @@
    "history": [
     {
      "d": "2026-10-25 23:11 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:06 GMT",
      "p": null
     }
    ],
@@ -1757,15 +1949,19 @@
    "position": 17,
    "url": "https://www.k1removals.com/areas-covered/kensington-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:12 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:08 GMT",
+   "checked_depth": 50,
    "status": "ranking",
-   "change": null,
-   "movement": "new",
+   "change": 0,
+   "movement": "same",
    "best": 17,
    "history": [
     {
      "d": "2026-10-25 23:12 GMT",
+     "p": 17
+    },
+    {
+     "d": "2026-10-26 08:08 GMT",
      "p": 17
     }
    ],
@@ -1782,8 +1978,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:13 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:09 GMT",
+   "checked_depth": 24,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1791,6 +1987,10 @@
    "history": [
     {
      "d": "2026-10-25 23:13 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:09 GMT",
      "p": null
     }
    ],
@@ -1807,8 +2007,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:14 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:10 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1816,6 +2016,10 @@
    "history": [
     {
      "d": "2026-10-25 23:14 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:10 GMT",
      "p": null
     }
    ],
@@ -1832,8 +2036,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:15 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:11 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1841,6 +2045,10 @@
    "history": [
     {
      "d": "2026-10-25 23:15 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:11 GMT",
      "p": null
     }
    ],
@@ -1857,8 +2065,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:16 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:12 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1866,6 +2074,10 @@
    "history": [
     {
      "d": "2026-10-25 23:16 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:12 GMT",
      "p": null
     }
    ],
@@ -1882,8 +2094,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:17 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:13 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1891,6 +2103,10 @@
    "history": [
     {
      "d": "2026-10-25 23:17 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:13 GMT",
      "p": null
     }
    ],
@@ -1907,8 +2123,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:18 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:14 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1916,6 +2132,10 @@
    "history": [
     {
      "d": "2026-10-25 23:18 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:14 GMT",
      "p": null
     }
    ],
@@ -1932,8 +2152,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:18 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:15 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1941,6 +2161,10 @@
    "history": [
     {
      "d": "2026-10-25 23:18 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:15 GMT",
      "p": null
     }
    ],
@@ -1954,19 +2178,23 @@
    "priority": null,
    "group": "West London",
    "area": "Acton",
-   "position": null,
-   "url": null,
+   "position": 36,
+   "url": "https://www.k1removals.com/areas-covered/acton-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:19 GMT",
-   "checked_depth": 30,
-   "status": "not_ranking",
+   "checked_at": "2026-10-26 08:17 GMT",
+   "checked_depth": 50,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
+   "movement": "new",
+   "best": 36,
    "history": [
     {
      "d": "2026-10-25 23:19 GMT",
      "p": null
+    },
+    {
+     "d": "2026-10-26 08:17 GMT",
+     "p": 36
     }
    ],
    "other_sources": []
@@ -1982,8 +2210,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:20 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:18 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -1991,6 +2219,10 @@
    "history": [
     {
      "d": "2026-10-25 23:20 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:18 GMT",
      "p": null
     }
    ],
@@ -2007,8 +2239,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:21 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:19 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2016,6 +2248,10 @@
    "history": [
     {
      "d": "2026-10-25 23:21 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:19 GMT",
      "p": null
     }
    ],
@@ -2032,8 +2268,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:22 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:20 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2041,6 +2277,10 @@
    "history": [
     {
      "d": "2026-10-25 23:22 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:20 GMT",
      "p": null
     }
    ],
@@ -2057,8 +2297,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:23 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:21 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2066,6 +2306,10 @@
    "history": [
     {
      "d": "2026-10-25 23:23 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:21 GMT",
      "p": null
     }
    ],
@@ -2082,8 +2326,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:23 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:22 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2091,6 +2335,10 @@
    "history": [
     {
      "d": "2026-10-25 23:23 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:22 GMT",
      "p": null
     }
    ],
@@ -2106,20 +2354,28 @@
    "area": "Richmond",
    "position": null,
    "url": null,
-   "source": "Google UK (live SERP, non-personalised)",
-   "checked_at": "2026-10-25 23:37 GMT",
-   "checked_depth": 9,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 08:23 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
    "history": [
     {
-     "d": "2026-10-25 23:37 GMT",
+     "d": "2026-10-26 08:23 GMT",
      "p": null
     }
    ],
-   "other_sources": []
+   "other_sources": [
+    {
+     "source": "Google UK (live SERP, non-personalised)",
+     "position": null,
+     "depth": 9,
+     "checked_at": "2026-10-25 23:37 GMT",
+     "url": null
+    }
+   ]
   },
   {
    "keyword": "removal company acton",
@@ -2131,20 +2387,28 @@
    "area": "Acton",
    "position": null,
    "url": null,
-   "source": "Google UK (live SERP, non-personalised)",
-   "checked_at": "2026-10-25 23:37 GMT",
-   "checked_depth": 10,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 08:24 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
    "history": [
     {
-     "d": "2026-10-25 23:37 GMT",
+     "d": "2026-10-26 08:24 GMT",
      "p": null
     }
    ],
-   "other_sources": []
+   "other_sources": [
+    {
+     "source": "Google UK (live SERP, non-personalised)",
+     "position": null,
+     "depth": 10,
+     "checked_at": "2026-10-25 23:37 GMT",
+     "url": null
+    }
+   ]
   },
   {
    "keyword": "removal company brentford",
@@ -2157,8 +2421,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:44 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:25 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2166,6 +2430,10 @@
    "history": [
     {
      "d": "2026-10-25 23:44 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:25 GMT",
      "p": null
     }
    ],
@@ -2182,8 +2450,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:45 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:26 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2191,6 +2459,10 @@
    "history": [
     {
      "d": "2026-10-25 23:45 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:26 GMT",
      "p": null
     }
    ],
@@ -2207,8 +2479,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:46 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:28 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2216,6 +2488,10 @@
    "history": [
     {
      "d": "2026-10-25 23:46 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:28 GMT",
      "p": null
     }
    ],
@@ -2232,8 +2508,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:47 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:29 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2241,6 +2517,10 @@
    "history": [
     {
      "d": "2026-10-25 23:47 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:29 GMT",
      "p": null
     }
    ],
@@ -2257,8 +2537,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:48 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:30 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2266,6 +2546,10 @@
    "history": [
     {
      "d": "2026-10-25 23:48 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:30 GMT",
      "p": null
     }
    ],
@@ -2282,8 +2566,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:48 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:31 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2291,6 +2575,10 @@
    "history": [
     {
      "d": "2026-10-25 23:48 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:31 GMT",
      "p": null
     }
    ],
@@ -2307,8 +2595,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:49 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:32 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2316,6 +2604,10 @@
    "history": [
     {
      "d": "2026-10-25 23:49 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:32 GMT",
      "p": null
     }
    ],
@@ -2329,19 +2621,23 @@
    "priority": 2,
    "group": "West London",
    "area": "Acton",
-   "position": 9,
+   "position": 10,
    "url": "https://www.k1removals.com/areas-covered/acton-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:50 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:33 GMT",
+   "checked_depth": 50,
    "status": "ranking",
-   "change": null,
-   "movement": "new",
+   "change": -1,
+   "movement": "declined",
    "best": 9,
    "history": [
     {
      "d": "2026-10-25 23:50 GMT",
      "p": 9
+    },
+    {
+     "d": "2026-10-26 08:33 GMT",
+     "p": 10
     }
    ],
    "other_sources": []
@@ -2357,8 +2653,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:51 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:34 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2366,6 +2662,10 @@
    "history": [
     {
      "d": "2026-10-25 23:51 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:34 GMT",
      "p": null
     }
    ],
@@ -2382,8 +2682,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:52 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:35 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2391,6 +2691,10 @@
    "history": [
     {
      "d": "2026-10-25 23:52 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:35 GMT",
      "p": null
     }
    ],
@@ -2407,8 +2711,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:53 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:36 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2416,6 +2720,10 @@
    "history": [
     {
      "d": "2026-10-25 23:53 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:36 GMT",
      "p": null
     }
    ],
@@ -2429,19 +2737,23 @@
    "priority": 7,
    "group": "West London",
    "area": "Ealing",
-   "position": null,
-   "url": null,
+   "position": 46,
+   "url": "https://www.k1removals.com/areas-covered/ealing-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:54 GMT",
-   "checked_depth": 30,
-   "status": "not_ranking",
+   "checked_at": "2026-10-26 08:37 GMT",
+   "checked_depth": 50,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
+   "movement": "new",
+   "best": 46,
    "history": [
     {
      "d": "2026-10-25 23:54 GMT",
      "p": null
+    },
+    {
+     "d": "2026-10-26 08:37 GMT",
+     "p": 46
     }
    ],
    "other_sources": []
@@ -2454,19 +2766,23 @@
    "priority": 4,
    "group": "West London",
    "area": "Hammersmith",
-   "position": 30,
+   "position": 31,
    "url": "https://www.k1removals.com/areas-covered/hammersmith-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:55 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:38 GMT",
+   "checked_depth": 50,
    "status": "ranking",
-   "change": null,
-   "movement": "new",
+   "change": -1,
+   "movement": "declined",
    "best": 30,
    "history": [
     {
      "d": "2026-10-25 23:55 GMT",
      "p": 30
+    },
+    {
+     "d": "2026-10-26 08:38 GMT",
+     "p": 31
     }
    ],
    "other_sources": []
@@ -2482,8 +2798,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:55 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:40 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2491,6 +2807,10 @@
    "history": [
     {
      "d": "2026-10-25 23:55 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:40 GMT",
      "p": null
     }
    ],
@@ -2507,8 +2827,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:56 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:40 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2516,6 +2836,10 @@
    "history": [
     {
      "d": "2026-10-25 23:56 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:40 GMT",
      "p": null
     }
    ],
@@ -2529,19 +2853,23 @@
    "priority": 10,
    "group": "West London",
    "area": "Kensington",
-   "position": 26,
-   "url": "https://www.k1removals.com/areas-covered/kensington-removals/",
+   "position": null,
+   "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:57 GMT",
-   "checked_depth": 30,
-   "status": "ranking",
+   "checked_at": "2026-10-26 08:41 GMT",
+   "checked_depth": 10,
+   "status": "not_ranking",
    "change": null,
-   "movement": "new",
+   "movement": "lost",
    "best": 26,
    "history": [
     {
      "d": "2026-10-25 23:57 GMT",
      "p": 26
+    },
+    {
+     "d": "2026-10-26 08:41 GMT",
+     "p": null
     }
    ],
    "other_sources": []
@@ -2557,8 +2885,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:58 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:42 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2566,6 +2894,10 @@
    "history": [
     {
      "d": "2026-10-25 23:58 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:42 GMT",
      "p": null
     }
    ],
@@ -2582,8 +2914,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-25 23:59 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:43 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2591,6 +2923,10 @@
    "history": [
     {
      "d": "2026-10-25 23:59 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:43 GMT",
      "p": null
     }
    ],
@@ -2607,8 +2943,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:02 GMT",
-   "checked_depth": 25,
+   "checked_at": "2026-10-26 08:44 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2616,6 +2952,10 @@
    "history": [
     {
      "d": "2026-10-26 00:02 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:44 GMT",
      "p": null
     }
    ],
@@ -2632,8 +2972,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:05 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:45 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2641,6 +2981,10 @@
    "history": [
     {
      "d": "2026-10-26 00:05 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:45 GMT",
      "p": null
     }
    ],
@@ -2657,8 +3001,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:06 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:47 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2666,6 +3010,10 @@
    "history": [
     {
      "d": "2026-10-26 00:06 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:47 GMT",
      "p": null
     }
    ],
@@ -2682,8 +3030,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:07 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:48 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2691,6 +3039,10 @@
    "history": [
     {
      "d": "2026-10-26 00:07 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:48 GMT",
      "p": null
     }
    ],
@@ -2704,19 +3056,23 @@
    "priority": 19,
    "group": "West London",
    "area": "West London",
-   "position": 18,
-   "url": "https://www.k1removals.com/",
+   "position": null,
+   "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:08 GMT",
-   "checked_depth": 25,
-   "status": "ranking",
+   "checked_at": "2026-10-26 08:49 GMT",
+   "checked_depth": 10,
+   "status": "not_ranking",
    "change": null,
-   "movement": "new",
+   "movement": "lost",
    "best": 18,
    "history": [
     {
      "d": "2026-10-26 00:08 GMT",
      "p": 18
+    },
+    {
+     "d": "2026-10-26 08:49 GMT",
+     "p": null
     }
    ],
    "other_sources": []
@@ -2732,15 +3088,19 @@
    "position": 9,
    "url": "https://www.k1removals.com/areas-covered/white-city-removals/",
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:09 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:50 GMT",
+   "checked_depth": 50,
    "status": "ranking",
-   "change": null,
-   "movement": "new",
+   "change": 0,
+   "movement": "same",
    "best": 9,
    "history": [
     {
      "d": "2026-10-26 00:09 GMT",
+     "p": 9
+    },
+    {
+     "d": "2026-10-26 08:50 GMT",
      "p": 9
     }
    ],
@@ -2757,8 +3117,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:09 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:51 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2766,6 +3126,10 @@
    "history": [
     {
      "d": "2026-10-26 00:09 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:51 GMT",
      "p": null
     }
    ],
@@ -2782,8 +3146,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:10 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:52 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2791,6 +3155,10 @@
    "history": [
     {
      "d": "2026-10-26 00:10 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:52 GMT",
      "p": null
     }
    ],
@@ -2804,19 +3172,23 @@
    "priority": null,
    "group": "West London",
    "area": "West London",
-   "position": 18,
-   "url": "https://www.k1removals.com/",
+   "position": null,
+   "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:11 GMT",
-   "checked_depth": 30,
-   "status": "ranking",
+   "checked_at": "2026-10-26 08:53 GMT",
+   "checked_depth": 10,
+   "status": "not_ranking",
    "change": null,
-   "movement": "new",
+   "movement": "lost",
    "best": 18,
    "history": [
     {
      "d": "2026-10-26 00:11 GMT",
      "p": 18
+    },
+    {
+     "d": "2026-10-26 08:53 GMT",
+     "p": null
     }
    ],
    "other_sources": []
@@ -2832,8 +3204,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:12 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:55 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2841,6 +3213,10 @@
    "history": [
     {
      "d": "2026-10-26 00:12 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:55 GMT",
      "p": null
     }
    ],
@@ -2857,8 +3233,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:13 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:56 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2866,6 +3242,10 @@
    "history": [
     {
      "d": "2026-10-26 00:13 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:56 GMT",
      "p": null
     }
    ],
@@ -2882,8 +3262,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:14 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:57 GMT",
+   "checked_depth": 10,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2891,6 +3271,10 @@
    "history": [
     {
      "d": "2026-10-26 00:14 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:57 GMT",
      "p": null
     }
    ],
@@ -2907,8 +3291,8 @@
    "position": null,
    "url": null,
    "source": "DuckDuckGo UK (not Google) – interim",
-   "checked_at": "2026-10-26 00:15 GMT",
-   "checked_depth": 30,
+   "checked_at": "2026-10-26 08:58 GMT",
+   "checked_depth": 50,
    "status": "not_ranking",
    "change": null,
    "movement": "—",
@@ -2916,6 +3300,10 @@
    "history": [
     {
      "d": "2026-10-26 00:15 GMT",
+     "p": null
+    },
+    {
+     "d": "2026-10-26 08:58 GMT",
      "p": null
     }
    ],
