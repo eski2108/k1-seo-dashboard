@@ -1,20 +1,21 @@
 {
- "generated": "2026-10-25 20:46 GMT",
- "last_checked": "2026-10-25 20:26 GMT",
+ "generated": "2026-10-26 00:15 GMT",
+ "last_checked": "2026-10-26 00:15 GMT",
  "sources": [
-  "DuckDuckGo UK (not Google) – interim"
+  "DuckDuckGo UK (not Google) – interim",
+  "Google UK (live SERP, non-personalised)"
  ],
  "summary": {
   "total": 116,
-  "checked": 10,
+  "checked": 116,
   "top3": 0,
-  "top10": 0,
-  "top100": 0,
-  "ranking": 0,
-  "avg_position": null,
+  "top10": 2,
+  "top100": 9,
+  "ranking": 9,
+  "avg_position": 19.3,
   "improved": 0,
   "declined": 0,
-  "new": 0,
+  "new": 9,
   "lost": 0
  },
  "volume_source": "Google Keyword Planner UK, avg monthly searches (approximate bands: 0 / 50 / 500 / 5,000)",
@@ -278,15 +279,21 @@
    "priority": null,
    "group": "International",
    "area": "Spain",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:47 GMT",
+   "checked_depth": 25,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:47 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -297,15 +304,21 @@
    "priority": null,
    "group": "International",
    "area": "Overseas",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:47 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:47 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -316,15 +329,21 @@
    "priority": null,
    "group": "International",
    "area": "Australia",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:48 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:48 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -335,15 +354,21 @@
    "priority": null,
    "group": "International",
    "area": "Dubai",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:49 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:49 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -354,15 +379,21 @@
    "priority": null,
    "group": "International",
    "area": "Spain",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:50 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:50 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -373,15 +404,21 @@
    "priority": null,
    "group": "International",
    "area": "Australia",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:51 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:51 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -392,15 +429,21 @@
    "priority": null,
    "group": "International",
    "area": "Dubai",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:52 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:52 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -411,15 +454,21 @@
    "priority": null,
    "group": "International",
    "area": "Spain",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:53 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:53 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -430,15 +479,21 @@
    "priority": null,
    "group": "International",
    "area": "Abroad",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:53 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:53 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -449,15 +504,21 @@
    "priority": null,
    "group": "International",
    "area": "Australia",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:54 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:54 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -468,15 +529,21 @@
    "priority": null,
    "group": "International",
    "area": "Dubai",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:55 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:55 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -487,15 +554,21 @@
    "priority": null,
    "group": "International",
    "area": "Spain",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:56 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:56 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -506,15 +579,21 @@
    "priority": null,
    "group": "International",
    "area": "Australia",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:57 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:57 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -525,15 +604,21 @@
    "priority": null,
    "group": "International",
    "area": "Dubai",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:58 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:58 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -544,15 +629,21 @@
    "priority": null,
    "group": "International",
    "area": "Spain",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 20:59 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 20:59 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -563,15 +654,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:00 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:00 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -582,15 +679,21 @@
    "priority": 17,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:00 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:00 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -601,15 +704,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:01 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:01 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -620,15 +729,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:02 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:02 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -639,15 +754,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:03 GMT",
+   "checked_depth": 25,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:03 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -658,15 +779,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:04 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:04 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -677,15 +804,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:05 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:05 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -696,15 +829,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:05 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:05 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -715,15 +854,21 @@
    "priority": 23,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:06 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:06 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -734,15 +879,21 @@
    "priority": 22,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "Google UK (live SERP, non-personalised)",
+   "checked_at": "2026-10-25 21:07 GMT",
+   "checked_depth": 9,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:07 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -753,15 +904,21 @@
    "priority": 5,
    "group": "Office & commercial",
    "area": "West London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:08 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:08 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -772,15 +929,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:09 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:09 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -791,15 +954,21 @@
    "priority": null,
    "group": "Office & commercial",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:09 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:09 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -810,15 +979,21 @@
    "priority": null,
    "group": "Shredding (service not confirmed)",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:10 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:10 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -829,15 +1004,21 @@
    "priority": null,
    "group": "Shredding (service not confirmed)",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:11 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:11 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -848,15 +1029,21 @@
    "priority": null,
    "group": "Shredding (service not confirmed)",
    "area": "",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:12 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:12 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -867,15 +1054,21 @@
    "priority": null,
    "group": "Shredding (service not confirmed)",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:13 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:13 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -886,15 +1079,21 @@
    "priority": null,
    "group": "Shredding (service not confirmed)",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:14 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:14 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -905,15 +1104,21 @@
    "priority": null,
    "group": "Shredding (service not confirmed)",
    "area": "",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:15 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:15 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -924,15 +1129,21 @@
    "priority": null,
    "group": "Shredding (service not confirmed)",
    "area": "West London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:16 GMT",
+   "checked_depth": 25,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:16 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -943,15 +1154,21 @@
    "priority": 21,
    "group": "Storage",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:17 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:17 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -962,15 +1179,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Scotland",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 21:18 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 21:18 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -981,15 +1204,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Long Distance",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 22:34 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 22:34 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1000,15 +1229,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Nationwide",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 22:35 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 22:35 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1019,15 +1254,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Uk",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 22:36 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 22:36 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1038,15 +1279,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Birmingham",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "Google UK (live SERP, non-personalised)",
+   "checked_at": "2026-10-25 22:54 GMT",
+   "checked_depth": 9,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 22:54 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1057,15 +1304,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Bristol",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 22:57 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 22:57 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1076,15 +1329,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Edinburgh",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 22:58 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 22:58 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1095,15 +1354,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Leeds",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 22:59 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 22:59 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1114,15 +1379,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Manchester",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:00 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:00 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1133,15 +1404,21 @@
    "priority": null,
    "group": "UK routes & cities",
    "area": "Uk",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:00 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:00 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1152,15 +1429,21 @@
    "priority": null,
    "group": "West London",
    "area": "Acton",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:01 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:01 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1171,15 +1454,21 @@
    "priority": null,
    "group": "West London",
    "area": "Brentford",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:02 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:02 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1190,15 +1479,21 @@
    "priority": null,
    "group": "West London",
    "area": "Chiswick",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:03 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:03 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1209,15 +1504,21 @@
    "priority": null,
    "group": "West London",
    "area": "Ealing",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:04 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:04 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1228,15 +1529,21 @@
    "priority": null,
    "group": "West London",
    "area": "Hammersmith",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 22,
+   "url": "https://www.k1removals.com/areas-covered/hammersmith-removals/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:05 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 22,
+   "history": [
+    {
+     "d": "2026-10-25 23:05 GMT",
+     "p": 22
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1247,15 +1554,21 @@
    "priority": null,
    "group": "West London",
    "area": "Acton",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 25,
+   "url": "https://www.k1removals.com/areas-covered/acton-removals/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:06 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 25,
+   "history": [
+    {
+     "d": "2026-10-25 23:06 GMT",
+     "p": 25
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1266,15 +1579,21 @@
    "priority": null,
    "group": "West London",
    "area": "Brentford",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:06 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:06 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1285,15 +1604,21 @@
    "priority": null,
    "group": "West London",
    "area": "Chiswick",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:07 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:07 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1304,15 +1629,21 @@
    "priority": null,
    "group": "West London",
    "area": "Ealing",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:08 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:08 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1323,15 +1654,21 @@
    "priority": null,
    "group": "West London",
    "area": "Hammersmith",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:09 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:09 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1342,15 +1679,21 @@
    "priority": null,
    "group": "West London",
    "area": "Kensington",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:10 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:10 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1361,15 +1704,21 @@
    "priority": null,
    "group": "West London",
    "area": "Richmond",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:10 GMT",
+   "checked_depth": 10,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:10 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1380,15 +1729,21 @@
    "priority": null,
    "group": "West London",
    "area": "West London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:11 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:11 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1399,15 +1754,21 @@
    "priority": null,
    "group": "West London",
    "area": "Kensington",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 17,
+   "url": "https://www.k1removals.com/areas-covered/kensington-removals/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:12 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 17,
+   "history": [
+    {
+     "d": "2026-10-25 23:12 GMT",
+     "p": 17
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1418,15 +1779,21 @@
    "priority": null,
    "group": "West London",
    "area": "Acton",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:13 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:13 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1437,15 +1804,21 @@
    "priority": null,
    "group": "West London",
    "area": "Brentford",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:14 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:14 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1456,15 +1829,21 @@
    "priority": null,
    "group": "West London",
    "area": "Chiswick",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:15 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:15 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1475,15 +1854,21 @@
    "priority": null,
    "group": "West London",
    "area": "Ealing",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:16 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:16 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1494,15 +1879,21 @@
    "priority": null,
    "group": "West London",
    "area": "Hammersmith",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:17 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:17 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1513,15 +1904,21 @@
    "priority": null,
    "group": "West London",
    "area": "Kensington",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:18 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:18 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1532,15 +1929,21 @@
    "priority": null,
    "group": "West London",
    "area": "Richmond",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:18 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:18 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1551,15 +1954,21 @@
    "priority": null,
    "group": "West London",
    "area": "Acton",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:19 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:19 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1570,15 +1979,21 @@
    "priority": null,
    "group": "West London",
    "area": "Brentford",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:20 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:20 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1589,15 +2004,21 @@
    "priority": null,
    "group": "West London",
    "area": "Chiswick",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:21 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:21 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1608,15 +2029,21 @@
    "priority": null,
    "group": "West London",
    "area": "Ealing",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:22 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:22 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1627,15 +2054,21 @@
    "priority": null,
    "group": "West London",
    "area": "Hammersmith",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:23 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:23 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1646,15 +2079,21 @@
    "priority": null,
    "group": "West London",
    "area": "Kensington",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:23 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:23 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1665,15 +2104,21 @@
    "priority": null,
    "group": "West London",
    "area": "Richmond",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "Google UK (live SERP, non-personalised)",
+   "checked_at": "2026-10-25 23:37 GMT",
+   "checked_depth": 9,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:37 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1684,15 +2129,21 @@
    "priority": null,
    "group": "West London",
    "area": "Acton",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "Google UK (live SERP, non-personalised)",
+   "checked_at": "2026-10-25 23:37 GMT",
+   "checked_depth": 10,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:37 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1703,15 +2154,21 @@
    "priority": null,
    "group": "West London",
    "area": "Brentford",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:44 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:44 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1722,15 +2179,21 @@
    "priority": null,
    "group": "West London",
    "area": "Chiswick",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:45 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:45 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1741,15 +2204,21 @@
    "priority": null,
    "group": "West London",
    "area": "Ealing",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:46 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:46 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1760,15 +2229,21 @@
    "priority": null,
    "group": "West London",
    "area": "Hammersmith",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:47 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:47 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1779,15 +2254,21 @@
    "priority": null,
    "group": "West London",
    "area": "Kensington",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:48 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:48 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1798,15 +2279,21 @@
    "priority": null,
    "group": "West London",
    "area": "Richmond",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:48 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:48 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1817,15 +2304,21 @@
    "priority": null,
    "group": "West London",
    "area": "West London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:49 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:49 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1836,15 +2329,21 @@
    "priority": 2,
    "group": "West London",
    "area": "Acton",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 9,
+   "url": "https://www.k1removals.com/areas-covered/acton-removals/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:50 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 9,
+   "history": [
+    {
+     "d": "2026-10-25 23:50 GMT",
+     "p": 9
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1855,15 +2354,21 @@
    "priority": 3,
    "group": "West London",
    "area": "Brentford",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:51 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:51 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1874,15 +2379,21 @@
    "priority": 26,
    "group": "West London",
    "area": "Chelsea",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:52 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:52 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1893,15 +2404,21 @@
    "priority": 6,
    "group": "West London",
    "area": "Chiswick",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:53 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:53 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1912,15 +2429,21 @@
    "priority": 7,
    "group": "West London",
    "area": "Ealing",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:54 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:54 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1931,15 +2454,21 @@
    "priority": 4,
    "group": "West London",
    "area": "Hammersmith",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 30,
+   "url": "https://www.k1removals.com/areas-covered/hammersmith-removals/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:55 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 30,
+   "history": [
+    {
+     "d": "2026-10-25 23:55 GMT",
+     "p": 30
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1950,15 +2479,21 @@
    "priority": 15,
    "group": "West London",
    "area": "Hounslow",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:55 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:55 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1969,15 +2504,21 @@
    "priority": 1,
    "group": "West London",
    "area": "Isleworth",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:56 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:56 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -1988,15 +2529,21 @@
    "priority": 10,
    "group": "West London",
    "area": "Kensington",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 26,
+   "url": "https://www.k1removals.com/areas-covered/kensington-removals/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:57 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 26,
+   "history": [
+    {
+     "d": "2026-10-25 23:57 GMT",
+     "p": 26
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2007,15 +2554,21 @@
    "priority": 14,
    "group": "West London",
    "area": "Kew",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:58 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:58 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2026,15 +2579,21 @@
    "priority": 11,
    "group": "West London",
    "area": "Notting Hill",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-25 23:59 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-25 23:59 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2045,15 +2604,21 @@
    "priority": 9,
    "group": "West London",
    "area": "Richmond",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:02 GMT",
+   "checked_depth": 25,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:02 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2064,15 +2629,21 @@
    "priority": 13,
    "group": "West London",
    "area": "Shepherds Bush",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:05 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:05 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2083,15 +2654,21 @@
    "priority": 8,
    "group": "West London",
    "area": "Twickenham",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:06 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:06 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2102,15 +2679,21 @@
    "priority": null,
    "group": "West London",
    "area": "W4",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:07 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:07 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2121,15 +2704,21 @@
    "priority": 19,
    "group": "West London",
    "area": "West London",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 18,
+   "url": "https://www.k1removals.com/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:08 GMT",
+   "checked_depth": 25,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 18,
+   "history": [
+    {
+     "d": "2026-10-26 00:08 GMT",
+     "p": 18
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2140,15 +2729,21 @@
    "priority": 12,
    "group": "West London",
    "area": "White City",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 9,
+   "url": "https://www.k1removals.com/areas-covered/white-city-removals/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:09 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 9,
+   "history": [
+    {
+     "d": "2026-10-26 00:09 GMT",
+     "p": 9
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2159,15 +2754,21 @@
    "priority": null,
    "group": "West London",
    "area": "Richmond",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:09 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:09 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2178,15 +2779,21 @@
    "priority": null,
    "group": "West London",
    "area": "W4",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:10 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:10 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2197,15 +2804,21 @@
    "priority": null,
    "group": "West London",
    "area": "West London",
-   "status": "not_checked",
-   "position": null,
-   "url": null,
-   "source": null,
-   "checked_at": null,
+   "position": 18,
+   "url": "https://www.k1removals.com/",
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:11 GMT",
+   "checked_depth": 30,
+   "status": "ranking",
    "change": null,
-   "movement": "—",
-   "best": null,
-   "history": [],
+   "movement": "new",
+   "best": 18,
+   "history": [
+    {
+     "d": "2026-10-26 00:11 GMT",
+     "p": 18
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2216,15 +2829,21 @@
    "priority": 20,
    "group": "Wider London",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:12 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:12 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2235,15 +2854,21 @@
    "priority": null,
    "group": "Wider London",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:13 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:13 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2254,15 +2879,21 @@
    "priority": 25,
    "group": "Wider London",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:14 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:14 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   },
   {
@@ -2273,15 +2904,21 @@
    "priority": 24,
    "group": "Wider London",
    "area": "London",
-   "status": "not_checked",
    "position": null,
    "url": null,
-   "source": null,
-   "checked_at": null,
+   "source": "DuckDuckGo UK (not Google) – interim",
+   "checked_at": "2026-10-26 00:15 GMT",
+   "checked_depth": 30,
+   "status": "not_ranking",
    "change": null,
    "movement": "—",
    "best": null,
-   "history": [],
+   "history": [
+    {
+     "d": "2026-10-26 00:15 GMT",
+     "p": null
+    }
+   ],
    "other_sources": []
   }
  ]
