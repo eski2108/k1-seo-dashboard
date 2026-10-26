@@ -14,7 +14,12 @@ kw = [{"keyword": r["keyword"], "group": r["cluster"], "intent": r["intent"], "p
       for r in csv.DictReader(open(SEO / "keywords-300.csv"))]
 pr = []
 for f in sorted(glob.glob(str(SEO / "weekend-*/research/backlink-pr-opportunities-*.csv"))):
-    pr += [{k: r[k] for k in ("name", "url", "type", "why_relevant", "how_to_pitch", "cost_or_caveat")} for r in csv.DictReader(open(f))]
+    for r in csv.DictReader(open(f)):
+        g = lambda *ks: next((r[k].strip() for k in ks if r.get(k)), "")
+        pr.append({"name": g("name"), "url": g("url"), "type": g("type"),
+                   "why_relevant": g("why_relevant", "why"),
+                   "how_to_pitch": g("how_to_pitch", "how to approach", "how_to_approach"),
+                   "cost_or_caveat": g("cost_or_caveat", *[k for k in r if k and k.lower().startswith("cost")])})
 drafts = []
 for f in sorted(glob.glob(str(SEO / "weekend-*/pages/README.md"))):
     for line in open(f):
@@ -36,5 +41,22 @@ data = {"updated": sb["updated"], "rank_check_note": sb["rank_check_note"], "pag
         "tracked_keywords": sb["keywords"], "not_targeting": sb["not_targeting"], "blockers": sb["blockers"],
         "work_log": sb["work_log"], "weekly_plan": sb["weekly_plan"], "keywords": kw, "pr_leads": pr,
         "drafts": drafts, "briefs": briefs}
+if OUT.exists():  # keep fields written by other scripts (e.g. import_volumes.py)
+    old = json.load(open(OUT))
+    for k in ("volumes_updated", "volume_source"):
+        if k in old: data[k] = old[k]
+    if "keywords" in old:  # keep imported volumes
+        vol = {x["keyword"]: x for x in old["keywords"]}
+        for x in kw:
+            o = vol.get(x["keyword"], {})
+            for k, v in o.items():
+                if x.get(k) in (None, ""): x[k] = v
+def scrub(o):  # never publish the registered-office address
+    if isinstance(o, dict): return {k: scrub(v) for k, v in o.items()}
+    if isinstance(o, list): return [scrub(v) for v in o]
+    if isinstance(o, str):
+        return re.sub(r"\(?Gable House[^)\n]*?W4 1QP\)?", "(see NAP rules)", o)
+    return o
+data = scrub(data)
 json.dump(data, open(OUT, "w"), indent=1, ensure_ascii=False)
 print(f"wrote {OUT}: {len(kw)} keywords, {len(pr)} PR leads, {len(drafts)} drafts, {len(briefs)} briefs")

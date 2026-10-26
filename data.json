@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-24",
- "rank_check_note": "24 Oct 01:20 BST: Google UK served a captcha to automated checks (curl and headless Chrome), so no position could be verified. Positions stay 'not yet checked' until Search Console is connected or a manual check is logged.",
+ "updated": "2026-10-26",
+ "rank_check_note": "26 Oct: Search Console verified (Domain property, 26 Oct 13:46 London); real positions/impressions will appear once Google has collected data (usually 2-3 days). Rankings tab shows the latest automated checks.",
  "pages": {
-  "live": 59,
-  "live_services_areas": 37,
-  "live_blogs": 22,
+  "live": 73,
+  "live_services_areas": 43,
+  "live_blogs": 30,
   "drafts_total": 58,
   "drafts_new": 31,
   "drafts_duplicate": 27,
-  "published_by_bot": 0,
+  "published_by_bot": 2,
   "blocked": 31
  },
  "citations": {
   "researched": 30,
-  "submitted": 0
+  "submitted": 4
  },
  "backlinks": {
   "targets": 47,
@@ -779,46 +779,39 @@
  ],
  "blockers": [
   {
-   "t": "QUIC.cloud 'One moment, please' bot check",
-   "impact": "Blocks wp-admin/newlogin login (nothing can be published) and Googlebot was blocked 2 of 5 tests on 23 Oct",
-   "owner": "Ali (host)",
-   "sev": "Critical",
-   "status": "Partly fixed – asked Ali to disable sitewide + purge cache"
-  },
-  {
-   "t": "No Google Search Console or GA4",
-   "impact": "No real positions, impressions or clicks; can't request indexing",
-   "owner": "Dean / Ali",
-   "sev": "High",
-   "status": "Open – verify GSC after login works"
-  },
-  {
-   "t": "'Man & Van' in Richmond and Kensington titles (and Acton/Brentford/Fulham/Shepherds Bush)",
-   "impact": "Targets low-value searches; off-brand",
-   "owner": "Grok Bot / K1 Seo Manager",
+   "t": "Yoast title/description for Gunnersbury + Isleworth",
+   "impact": "New body text is live but old titles/metas still show (Isleworth meta still has an off-brand phrase)",
+   "owner": "K1 Seo Manager",
    "sev": "Medium",
-   "status": "Rewrites drafted – blocked by login"
+   "status": "Open – not writable via REST; needs wp-admin"
   },
   {
-   "t": "Google reviews disappearing",
-   "impact": "Weakens map pack and trust",
+   "t": "Website form emails (SMTP route)",
+   "impact": "Enquiry form emails may not arrive reliably",
    "owner": "Dean",
    "sev": "High",
-   "status": "Open – check GBP address/verification, request reviews via template, no review gating"
+   "status": "Open – route undecided (Gmail app password unavailable vs Mailgun)"
   },
   {
-   "t": "Self-serving AggregateRating schema on homepage",
-   "impact": "Breaks Google review-snippet policy",
-   "owner": "Grok Bot",
-   "sev": "Medium",
-   "status": "Fix drafted – blocked by login"
-  },
-  {
-   "t": "3 conflicting business addresses (NAP)",
-   "impact": "Hurts local rankings and citations",
-   "owner": "Dean",
+   "t": "Google Business Profile ownership/verification",
+   "impact": "No map-pack presence until verified",
+   "owner": "Dean / K1 Seo Manager",
    "sev": "High",
-   "status": "Open – confirm Gable House, Turnham Green Terrace W4 1QP"
+   "status": "Pending – service-area setup with hidden address approved 26 Oct; verification to do"
+  },
+  {
+   "t": "Cylex UK listing",
+   "impact": "One citation missing",
+   "owner": "Dean",
+   "sev": "Low",
+   "status": "Account verified; listing needs phone SMS verification"
+  },
+  {
+   "t": "Yell + Brownbook directory retries",
+   "impact": "Two major citations missing",
+   "owner": "K1 Seo Manager",
+   "sev": "Medium",
+   "status": "Yell codes expired – retry; Brownbook login blocked – retry via forgot-password"
   }
  ],
  "work_log": [
@@ -861,6 +854,16 @@
    "date": "23 Oct",
    "type": "Access",
    "detail": "Googlebot whitelist note sent to Ali; partial fix confirmed"
+  },
+  {
+   "date": "26 Oct",
+   "type": "Search Console",
+   "detail": "Domain property k1removals.com verified via DNS TXT (13:46)"
+  },
+  {
+   "date": "26 Oct",
+   "type": "Pages",
+   "detail": "Gunnersbury + Isleworth rewrites live; FreeIndex live, Hotfrog submitted"
   }
  ],
  "weekly_plan": [
@@ -9686,7 +9689,7 @@
    "url": "https://chiswick.directory/",
    "type": "Hyper-local business directory",
    "why_relevant": "W4-only business directory with free and premium listings (add a listing at chiswick.directory/add-listing). It's relevant to the 'removals chiswick' target keyword and not in directory-citations.csv or citations-30.csv.",
-   "how_to_pitch": "Create a free listing using the exact NAP from leadgen/nap-citation-sheet.md (Gable House, 18–24 Turnham Green Terrace, W4 1QP · 0330 103 0041) and link to /areas-covered/chiswick-removals/.",
+   "how_to_pitch": "Create a free listing using the exact NAP from leadgen/nap-citation-sheet.md (see NAP rules) · 0330 103 0041) and link to /areas-covered/chiswick-removals/.",
    "cost_or_caveat": "Free tier. The box couldn't reach the site from here (timeout), but search confirmed it's live, so check it in a browser before submitting."
   },
   {
@@ -9728,6 +9731,86 @@
    "why_relevant": "W4 business networking group (Meetup)",
    "how_to_pitch": "Attend events to meet office managers; relationship rather than a link",
    "cost_or_caveat": ""
+  },
+  {
+   "name": "Barnes Fair (Barnes Community Association)",
+   "url": "https://www.barnes-ca.org/bca-events/barnesfair",
+   "type": "Local event sponsorship / stall",
+   "why_relevant": "Barnes's annual summer fair. The fair page names its 2026 sponsors, including a Transport Sponsor slot, and the BCA's Facebook thank-you post credits Alexanders removals (a Chiswick competitor) as a supporter. Directly supports the Barnes page.",
+   "how_to_pitch": "Email fairs@barnes-ca.org (address on the fair page) asking about 2027 sponsorship, especially the Transport Sponsor slot, or offering in-kind help moving stalls and staging. Ask for a sponsor listing with a link. Join the 2027 stallholder mailing list via the page.",
+   "cost_or_caveat": "paid (tier prices not published; ask)"
+  },
+  {
+   "name": "Barnes Common Ltd: corporate volunteering",
+   "url": "https://barnescommon.org.uk/support-us/volunteer-with-us/corporate-volunteering/",
+   "type": "Local charity / corporate volunteering",
+   "why_relevant": "The charity that manages Barnes Common lists past corporate groups (e.g. M&S Barnes, Radnor House School) on its page. A half-day team session builds a genuine Barnes connection and can lead to a mention in its news or newsletter.",
+   "how_to_pitch": "Book a half-day session for the K1 team via the page's contact form, then offer free boxes or help moving kit for its Autumn Fayre or Winter Wassail. Ask whether supporters are credited online. No link is promised.",
+   "cost_or_caveat": "paid (page says from £35 per person, minimum £300 + VAT)"
+  },
+  {
+   "name": "OSO Arts Centre: Theatre Angels / business support",
+   "url": "https://www.osoarts.org.uk/theatre-angels",
+   "type": "Local arts sponsorship",
+   "why_relevant": "Theatre and café on Barnes Pond (49 Station Road, SW13), the venue the live Barnes page already mentions. Its Theatre Angels scheme credits supporters in programmes and on a 'Wall of Angels'. It also runs OSO Sorted networking events.",
+   "how_to_pitch": "Ask the OSO whether a business can join at Angel level, or sponsor a production in return for a programme and website credit with a link. Attend an OSO Sorted networking evening first to meet the team.",
+   "cost_or_caveat": "paid (Cherub £50, Angel £260, Guardian Angel £500 per the page)"
+  },
+  {
+   "name": "The Putney Society: shoppers' discount scheme",
+   "url": "https://www.putneysociety.org.uk/shoppers",
+   "type": "Local amenity society / business listing",
+   "why_relevant": "Amenity society for Putney and Roehampton. Its Independent Trader's Discount Scheme publishes a list of participating local businesses for members. A listing puts K1 in front of SW15 homeowners and could carry a link.",
+   "how_to_pitch": "Contact the scheme organiser (vickysw15@aol.com, given on the page) and ask whether a removals company outside SW15 can join by offering members a discount, and whether listings link to websites. Discount terms are Dean's decision.",
+   "cost_or_caveat": "unknown (joining terms not published; a member discount would cost K1 margin)"
+  },
+  {
+   "name": "Positively Putney BID: associate membership",
+   "url": "https://positivelyputney.co.uk/supporting-businesses/associate-membership/",
+   "type": "Business Improvement District / directory",
+   "why_relevant": "Putney's BID runs a public business directory and promotes members on its site and social media. Associate membership is offered to businesses just outside the BID area.",
+   "how_to_pitch": "Email Nicolagrant@positivelyputney.co.uk (on the page) asking whether K1 is eligible as a non-Putney associate member and what the fee would be, and whether it includes a directory listing with a link.",
+   "cost_or_caveat": "paid (fee is a proportion of business rates; amount unknown)"
+  },
+  {
+   "name": "Putney.news",
+   "url": "https://putney.news/contact/",
+   "type": "Independent local news site",
+   "why_relevant": "Independent SW15 news site that covers council, transport (Hammersmith Bridge, Putney Bridge) and riverside flooding. Expert comment from a removals firm on moving-day parking or tides is a natural fit.",
+   "how_to_pitch": "Use the 'Send us a tip or story' form to offer Dean as a source on practical moving-day issues (Wandsworth's 7-working-day suspension rule, riverside tides, Hammersmith Bridge detours). No sales pitch. Any link is the editor's choice.",
+   "cost_or_caveat": "free (editorial); advertising available at unknown cost"
+  },
+  {
+   "name": "The Wandsworth Society (organisation membership)",
+   "url": "https://wandsworthsociety.org/membership/",
+   "type": "Local amenity society",
+   "why_relevant": "Amenity society covering the town centre, Wandsworth Common, Earlsfield and Southfields. It publishes newsletters (Autumn 2026 issue online) and lists local news. A relationship play for the Wandsworth page.",
+   "how_to_pitch": "Join as an organisation, then offer a short practical note for the newsletter (e.g. moving-day parking under Wandsworth's rules) or free boxes for a society event. Ask about a mention with a link.",
+   "cost_or_caveat": "paid (organisations £30 a year per the page)"
+  },
+  {
+   "name": "South West Londoner (SWL)",
+   "url": "https://www.swlondoner.co.uk/contact-us/",
+   "type": "Local news site (SW London)",
+   "why_relevant": "News site covering south-west London boroughs, including Wandsworth and Richmond. Useful for community stories and expert comment.",
+   "how_to_pitch": "Email the news desk (address on the contact page) with a genuine local story, e.g. a K1 community initiative or practical comment on the Wandsworth gyratory consultation's effect on moving day. Keep it news-led.",
+   "cost_or_caveat": "free (editorial); advertising cost unknown"
+  },
+  {
+   "name": "Australian Times (Blue Sky Publications)",
+   "url": "https://www.australiantimes.co.uk/contact-us/",
+   "type": "Expat news, Australians in the UK",
+   "why_relevant": "News site for Australians living in the UK, based at Putney Bridge Approach (SW6). Its readers are the people returning home, which supports the live /removals-london-to-australia/ page.",
+   "how_to_pitch": "Pitch Dean as an expert source for a feature on shipping household goods from London to Australia (email info@ or editor@australiantimes.co.uk). Its 'Write for us' page says it won't accept content written to place links, so treat it as PR. A link only comes through advertising or the editor's choice.",
+   "cost_or_caveat": "free for editorial (no links); advertising cost unknown"
+  },
+  {
+   "name": "Eye on Spain: business directory",
+   "url": "https://www.eyeonspain.com/directory/add-business.aspx",
+   "type": "Expat community + directory (Spain)",
+   "why_relevant": "Long-running forum and directory for British expats in Spain. The page claims 10,000+ daily visitors and 60,000+ members. A directory listing also appears in the forums and supports the live /removals-london-to-spain/ page.",
+   "how_to_pitch": "Add a listing under removals/relocation with the Spain page URL. Separately, answer moving questions in the forum as K1, within its rules on business posts.",
+   "cost_or_caveat": "paid (€9 per month per the page, cancel any time)"
   }
  ],
  "drafts": [
@@ -9788,6 +9871,30 @@
    "status": "Awaiting Dean's OK"
   },
   {
+   "type": "Page",
+   "name": "barnes-removals",
+   "url": "/areas-covered/barnes-removals/",
+   "words": "~1,040",
+   "notes": "Title \"Removals Barnes: Removal and Storage Company SW13 London\". About 1,600 words of the shared area template: H2 typo \"Moving Services in **SW12**\", \"over a decade\" repeated three times, \"Diverse Fleet\", \"storage solutions in Barnes\", \"guarantee\", \"Affordable\", \"cheaper price for students\", a no-charge-for-delays FAQ, and a parking FAQ that says a permit often isn't needed. | Rewritten from scratch around SW13 specifics: Castelnau/Lonsdale Road, The Terrace, Harrods Village, the High Street and pond. Hammersmith Bridge still closed to motor traffic (TfL page, checked 25 Oct). Vine Road level crossings. **Richmond Council suspension rules** (page updated 10 Aug 2026, checked 25 Oct): CPZ bays only, form says 7 working days but the banner says 10, so we use 10; more than 8 bays needs 10 days; whole-day only; signs 3 full days before. Adds move manager, evening/weekend moves and a video survey. Removes all fleet and years claims and \"guarantee\".",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "putney-removals",
+   "url": "/areas-covered/putney-removals/",
+   "words": "~1,010",
+   "notes": "Same template, title \"Removals Putney: Removals And Storage SW15 London\", with \"for the past ten years\", \"fleet of vehicles\", \"guaranteed\" and \"student prices\". | SW15 specifics: High Street/bridge end, West Putney, Putney Wharf, Putney Heath/Roehampton (Alton Estate), Upper Richmond Road. **Wandsworth Council suspension rules** (page updated 11 Mar 2026, checked 25 Oct): 7 clear working days, submission day/weekends/bank holidays excluded, 3pm cut-off, same number of bays every day. No council suspensions on unrestricted streets, and red routes go to TfL. Putney Embankment named in the EA tidal flood alert area. Boat Race listed as a special event. Putney Bridge carries more traffic while Hammersmith Bridge is closed.",
+   "status": "Awaiting Dean's OK"
+  },
+  {
+   "type": "Page",
+   "name": "wandsworth-removals",
+   "url": "/areas-covered/wandsworth-removals/",
+   "words": "~970",
+   "notes": "Same template, title \"Removals Wandsworth: ... SW18\", with \"one of the leading removals companies in London\", \"more than ten years\", \"fleet\" and \"guarantee\". | SW18 specifics: the Southfields Grid, Earlsfield/Garratt Lane, Wandsworth Common/Toast Rack, Ram Quarter/Southside, Old York Road/riverside. Gyratory (A3/A205): TfL dropped the removal scheme in 2025, and its consultation on bus lanes and crossings closes **Fri 6 Nov 2026** (TfL Have Your Say, checked 25 Oct). Wandsworth rules angled differently from Putney: disabled/car club/EV bays only as a last resort, overnight lorries need permission, enforcement but no promise the bay is clear, Wimbledon Championships listed as a special event (Southfields).",
+   "status": "Awaiting Dean's OK"
+  },
+  {
    "type": "Blog brief",
    "name": "2026-10-27-moving-house-in-winter-london",
    "url": "",
@@ -9802,9 +9909,35 @@
    "words": "",
    "notes": "Blog brief: Fri 30 Oct 2026 (Grok Bot to write)",
    "status": "Brief ready"
+  },
+  {
+   "type": "Blog brief",
+   "name": "2026-11-03-moving-to-top-floor-flat-no-lift-london",
+   "url": "",
+   "words": "",
+   "notes": "Blog brief: Tue 3 Nov 2026 (Grok Bot to write)",
+   "status": "Brief ready"
+  },
+  {
+   "type": "Blog brief",
+   "name": "2026-11-06-downsizing-house-to-flat-london",
+   "url": "",
+   "words": "",
+   "notes": "Blog brief: Fri 6 Nov 2026 (Grok Bot to write)",
+   "status": "Brief ready"
   }
  ],
  "briefs": [
+  {
+   "slug": "chelsea-removals",
+   "title": "Brief: Removals Chelsea (new page)",
+   "url": "/areas-covered/chelsea-removals/ (DRAFT: new page)",
+   "primary": "removals chelsea (P1, vol 500)",
+   "secondary": "chelsea removals, removal company chelsea, house removals chelsea, moving company chelsea, removals sw3, office removals chelsea",
+   "intent": "Local/commercial. Searcher wants a trusted removal company for a Chelsea move and a quote.",
+   "length": "1,000–1,400 words + 6 FAQs",
+   "command": "/write topics/chelsea-removals.md"
+  },
   {
    "slug": "document-shredding-london",
    "title": "Brief: Confidential document shredding (new page)",
@@ -9816,6 +9949,16 @@
    "command": "/write topics/document-shredding-london.md"
   },
   {
+   "slug": "house-removals-london",
+   "title": "Brief: House Removals London (rewrite live page)",
+   "url": "/removals/house-moves/ (LIVE: replace body, keep slug)",
+   "primary": "house removals london (P1, vol 500)",
+   "secondary": "4 bed house removals london, 3 bed house removals london, 5 bed house removals london, home removals london, house movers london, family house move london, large house removals london, house removal company london, moving house london, domestic removals london, residential removals london",
+   "intent": "Commercial/service hub. Searcher wants a professional removals company for a house move in or from London, with a quote.",
+   "length": "1,200–1,600 words + 6 FAQs",
+   "command": "/write topics/house-removals-london.md"
+  },
+  {
    "slug": "international-removals-london",
    "title": "Brief: International removals London (fix live hub)",
    "url": "/areas-covered/international-removals/ (LIVE)",
@@ -9824,6 +9967,16 @@
    "intent": "Commercial. People planning a move abroad who want a door-to-door specialist.",
    "length": "1,500–2,000 words + 6 FAQs",
    "command": "/write topics/international-removals-london.md"
+  },
+  {
+   "slug": "kensington-removals",
+   "title": "Brief: Removals Kensington (rewrite live page)",
+   "url": "/areas-covered/kensington-removals/ (LIVE: replace body, keep slug)",
+   "primary": "removals kensington (P1, vol 500)",
+   "secondary": "removal company kensington, kensington removals, house removals kensington, moving company kensington, removals w8, office removals kensington",
+   "intent": "Local/commercial. Searcher wants a trusted local firm familiar with Kensington's prime properties, building access rules and parking restrictions.",
+   "length": "1,000–1,400 words + 6 FAQs",
+   "command": "/write topics/kensington-removals.md"
   },
   {
    "slug": "office-removals-london",
@@ -9854,6 +10007,76 @@
    "intent": "Local/commercial. Searcher wants a trusted local firm and a quote.",
    "length": "1,000–1,400 words + 6 FAQs",
    "command": "/write topics/removals-chiswick.md"
+  },
+  {
+   "slug": "removals-london-homepage",
+   "title": "Brief: Homepage – London brand (rewrite live page)",
+   "url": "/ (LIVE: replace body, keep slug)",
+   "primary": "",
+   "secondary": "london removals, removals company london, london removal companies, professional removals london, best removal company london, removals near me, k1 removals, full service removals london, insured removals london",
+   "intent": "Commercial brand/service. Searcher wants a trusted London removals company covering domestic, commercial and international moves, with a quote.",
+   "length": "1,200–1,600 words + 6 FAQs",
+   "command": "/write topics/removals-london-homepage.md"
+  },
+  {
+   "slug": "removals-london-to-australia",
+   "title": "Brief: Removals London to Australia (rewrite live page)",
+   "url": "/removals-london-to-australia/ (LIVE: replace body, keep slug)",
+   "primary": "removals london to australia (P1)",
+   "secondary": "removals to australia, moving to australia from uk, shipping furniture to australia, international removals to australia, uk to australia removals",
+   "intent": "Commercial/international. Searcher wants a professional removals company to handle a door-to-door move from the UK to Australia, with customs, insurance and a fixed quote.",
+   "length": "1,400–2,000 words + 6 FAQs",
+   "command": "/write topics/removals-london-to-australia.md"
+  },
+  {
+   "slug": "removals-london-to-france",
+   "title": "Brief: Removals London to France",
+   "url": "/removals-london-to-france/ (DRAFT)",
+   "primary": "removals london to france (P1, vol 50)",
+   "secondary": "removals to france (P1, vol 500), moving to france from uk (P1, vol 500), shipping furniture to france (P1, vol 50), international removals to france (P1, vol 50), uk to france removals (P1, vol 50)",
+   "intent": "Commercial/international. Searcher wants a professional door-to-door move to France with clear process, customs help and insurance.",
+   "length": "1,400–1,800 words + 6 FAQs",
+   "command": "/write topics/removals-london-to-france.md"
+  },
+  {
+   "slug": "removals-london-to-portugal",
+   "title": "Brief: Removals London to Portugal",
+   "url": "/removals-london-to-portugal/ (DRAFT: new page)",
+   "primary": "removals london to portugal (P1)",
+   "secondary": "removals to portugal, moving to portugal from uk, shipping furniture to portugal, international removals to portugal, uk to portugal removals",
+   "intent": "Commercial/international. Searcher planning a permanent move or shipping belongings to Portugal; needs a door-to-door quote, customs/paperwork guidance, and reassurance about insurance and transit times.",
+   "length": "1,400–1,800 words + 6 FAQs",
+   "command": "/write topics/removals-london-to-portugal.md"
+  },
+  {
+   "slug": "removals-london-to-spain",
+   "title": "Brief: Removals London to Spain (rewrite live page)",
+   "url": "/removals-london-to-spain/ (LIVE: replace body, keep slug)",
+   "primary": "removals london to spain (P1, vol 50)",
+   "secondary": "removals to spain (P1, vol 500), moving to spain from uk (P1, vol 5000), shipping furniture to spain (P1, vol 50), international removals to spain (P1, vol 50), uk to spain removals (P1, vol 50)",
+   "intent": "Commercial/international. Searcher planning a move to Spain; needs a reliable door-to-door service, customs/paperwork clarity and a fixed quote.",
+   "length": "1,400–2,000 words + 6 FAQs",
+   "command": "/write topics/removals-london-to-spain.md"
+  },
+  {
+   "slug": "removals-london-to-usa",
+   "title": "Brief: Removals London to USA (draft page)",
+   "url": "/removals-london-to-usa/ (DRAFT: new page)",
+   "primary": "removals london to usa (P1)",
+   "secondary": "removals to usa, moving to usa from uk, shipping furniture to usa, international removals to usa, uk to usa removals",
+   "intent": "Commercial/international. Searcher planning a move from the UK to the USA; wants a trusted firm, customs/shipping detail, and a quote.",
+   "length": "1,400–1,800 words + 6 FAQs",
+   "command": "/write topics/removals-london-to-usa.md"
+  },
+  {
+   "slug": "west-london-removals-hub",
+   "title": "Brief: West London Hub (rewrite live page)",
+   "url": "/areas-covered/ (LIVE: replace body, keep slug)",
+   "primary": "removals west london (P1, vol 500)",
+   "secondary": "west london removals, removal company west london, house removals west london, moving company west london, removals south west london, removals hounslow and richmond",
+   "intent": "Local/commercial hub. Searcher wants a professional West London removals firm covering multiple boroughs; needs area links and a quote.",
+   "length": "1,400–1,800 words + 6 FAQs",
+   "command": "/write topics/west-london-removals-hub.md"
   }
  ],
  "volumes_updated": "2026-10-24",
